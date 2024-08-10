@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>BroomStack</title>
+</head>
+<body>
+    <nav id="navbar">
+        <a href="index.html">BroomStack</a>
+        <div id="sitelinks">
+
+            <a  href="">SeasonRanks</a>
+            <a href="">Help</a>
+            <a href="">About</a>
+        </div>
+
+
+    </nav>
+
+    <article id="siteContent">
+        <div class="buttonGroup">
+
+            <button onclick="getCSV('Stats/Men/Season/mensStats.csv')">Mens</button>
+            <button onclick="getCSV('../womensStats.csv')">Womens</button>
+        </div>
+        <input type="text" id="myInput" onkeyup="search()" placeholder="Search for a team..">
+        <div id="tableContainer"></div>
+    </article>
+
+<script src="script.js"></script>
+</body>
+</html>
