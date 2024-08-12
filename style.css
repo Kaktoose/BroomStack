@@ -85,6 +85,11 @@ article{
     margin: 10px auto auto auto;
 }
 
+#seasonTitle{
+    text-align: center;
+    padding: 15px;
+}
+
 #tablecontainer{
     padding-bottom: 5px;
 }
@@ -92,3 +97,38 @@ article{
 tr:nth-child(even) {
     background-color: #f2f2f2;
   }
+
+
+#seasonList a:nth-child(odd){
+    background-color: #f2f2f2;
+
+}
+
+#seasonList a:hover{
+    background-color: #dfdede;
+
+}
+
+#seasonList a{
+    color: black;
+    padding: 5px;
+    font-size: 1.3rem
+}
+#seasonList{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align:center
+}
+
+th.sorted-asc::after {
+    content: ' \1F781'; /* Up arrow */
+}
+
+th.sorted-desc::after {
+    content: ' \1F783'; /* Down arrow */
+}
+
+th.unsorted::after{
+    content: ' \21C5'
+}

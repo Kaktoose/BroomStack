@@ -1,7 +1,15 @@
 // document.addEventListener('DOMContentLoaded', () => {
+
+
+    season = document.getElementById('seasonTitle').innerText
+
     function getCSV(file){
-        console.log(file)
-        fetch(file)  // Replace with the path to your CSV file
+
+        // TODO
+        // take the name of the title of the season page and 
+        // correlate it to the csv file your gonna use
+        console.log(`/Stats/${file}/season/${season}.csv`)
+        fetch(`/Stats/${file}/Season/${season}.csv`)  // Replace with the path to your CSV file
         .then(response => response.text())
         .then(csvData => {
             const tableContainer = document.getElementById('tableContainer');
@@ -30,6 +38,7 @@ function csvToTable(csv) {
     const headers = rows[0].split(',');
     headers.forEach((header, index) => {
         const th = document.createElement('th');
+        th.classList.add('unsorted'); // Add class to each header
         th.textContent = header;
         th.setAttribute('onclick', `sortTable(${index})`);
         headerRow.appendChild(th);
@@ -54,6 +63,9 @@ function csvToTable(csv) {
     });
     table.appendChild(tbody);
 
+
+
+
     return table;
 }
 
@@ -65,16 +77,20 @@ function sortTable(columnIndex) {
     const rowsArray = Array.from(tbody.querySelectorAll('tr'));
     const isAscending = table.getAttribute('data-sort') === 'asc';
     table.setAttribute('data-sort', isAscending ? 'desc' : 'asc');
-
     // Get column headers
     const headers = thead.querySelectorAll('th');
 
-    // Remove bold styling from all headers
-    headers.forEach(header => header.style.fontWeight = 'normal');
+    headers.forEach(header => {
+        header.style.fontWeight = 'normal';
+        header.classList.remove('sorted-asc', 'sorted-desc', 'unsorted'); // Remove classes for arrows
+        
+
+    });
 
     // Add bold styling to the currently sorted header
-    if (headers[columnIndex + 1]) {  // Adjust column index for header
+    if (headers[columnIndex + 1]) {
         headers[columnIndex + 1].style.fontWeight = 'bold';
+        headers[columnIndex + 1].classList.add(isAscending ? 'sorted-asc' : 'sorted-desc');
     }
 
     // Sort rows based on the selected column
@@ -91,6 +107,7 @@ function sortTable(columnIndex) {
     // Update row numbers based on the new sorting order
     rowsArray.forEach((row, index) => {
         row.children[0].textContent = !isAscending ? index + 1 : rowsArray.length - index;
+
     });
 
     // Append rows in the sorted order
