@@ -32,7 +32,7 @@ function csvToTable(csv) {
     // Create table headers
     const headerRow = document.createElement('tr');
     const th = document.createElement('th');
-    th.textContent = 'Row Number';  // Header for row numbers
+    th.textContent = '#';  // Header for row numbers
     headerRow.appendChild(th);
 
     const headers = rows[0].split(',');
