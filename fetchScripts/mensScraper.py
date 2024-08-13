@@ -5,10 +5,10 @@ import csv
 
 
 teamLinkList = []
-filePath = "Stats/Men/Season/2022-2023.csv"
+filePath = "Stats/Men/Season/2019-2020.csv"
 
 def fetchMensTeams():
-    url = "https://www.curlingzone.com/teams.php?et=81&ey=2023"
+    url = "https://www.curlingzone.com/teams.php?ey=2020&et=81#1"
     response = requests.get(url)
 
     if response.status_code == 200:

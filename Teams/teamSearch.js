@@ -1,6 +1,11 @@
 
+let csvFiles= []
 document.addEventListener('DOMContentLoaded', () => {
-    const csvFiles = ['/Stats/Men/Season/2022-2023.csv', '/Stats/Men/Season/2023-2024.csv']; // List your CSV files here
+    let mensFiles = ['/Stats/Men/Season/2023-2024.csv', '/Stats/Men/Season/2022-2023.csv', '/Stats/Men/Season/2021-2022.csv', '/Stats/Men/Season/2020-2021.csv']
+    let womensFiles = ['/Stats/Women/Season/2023-2024.csv', '/Stats/Women/Season/2022-2023.csv', '/Stats/Women/Season/2021-2022.csv', '/Stats/Women/Season/2020-2021.csv']
+    
+    const csvFiles = ['/Stats/Men/Season/2023-2024.csv', '/Stats/Men/Season/2022-2023.csv', '/Stats/Men/Season/2021-2022.csv','/Stats/Men/Season/2020-2021.csv', '/Stats/Women/Season/2023-2024.csv', '/Stats/Women/Season/2022-2023.csv', '/Stats/Women/Season/2021-2022.csv', '/Stats/Women/Season/2020-2021.csv']
+
     const teamContainer = document.getElementById('teamContainer');
     const searchInput = document.getElementById('teamSearch');
     let allNames = new Set(); // Use a Set to store unique names
@@ -23,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const displayNames = (names) => {
 
         
-
+        names.sort()
         // names.shift()
         const teamContainerDiv = document.createElement('div');
         teamContainer.innerHTML = ''; // Clear previous content
@@ -98,115 +103,111 @@ document.addEventListener('DOMContentLoaded', () => {
 //     }
 //   }
 
-function buildPage(team){
-    // console.log(team)
-    teamContainer.innerHTML = ""
-    document.getElementById('teamSearch').remove()
+function buildPage(team) {
+    // Clear the existing content
+    const teamContainer = document.getElementById('teamContainer'); // Make sure to set this correctly
+    teamContainer.innerHTML = "";
+    document.getElementById('teamSearch').remove();
 
+    document.getElementById('allTimeTeamName').innerHTML = team;
 
-
-    document.getElementById('allTimeTeamName').innerHTML = team
-
-    const filesToSearch = ['/Stats/Women/Season/2023-2024.csv', '/Stats/Men/Season/2022-2023.csv', '/Stats/Men/Season/2023-2024.csv']
+    const filesToSearch = [
+        '/Stats/Men/Season/2023-2024.csv', 
+        '/Stats/Men/Season/2022-2023.csv', 
+        '/Stats/Men/Season/2021-2022.csv',
+        '/Stats/Men/Season/2020-2021.csv', 
+        '/Stats/Women/Season/2023-2024.csv', 
+        '/Stats/Women/Season/2022-2023.csv', 
+        '/Stats/Women/Season/2021-2022.csv', 
+        '/Stats/Women/Season/2020-2021.csv'
+    ];
 
     const table = document.createElement('table');
+    table.id = 'myTable';
 
     const thead = document.createElement('thead');
-    // const headerRow = document.createElement('tr');
-
-
-
     const tbody = document.createElement('tbody');
-    const headerRow= document.createElement('tr')
-
-    fetch('/Stats/Women/Season/2023-2024.csv')
-    .then(response => response.text())
-    .then(data =>{
-        const linesofHeader = data.split("\n")
-        const firstLine = linesofHeader[0]; 
-        const headerValues = firstLine.split(",")
-        headerValues[0] = "Season"
-        headerValues.forEach(headerValue => {
-            // console.log(headerValue)
-            const headerCell = document.createElement('th');
-            headerCell.textContent = headerValue; 
-            headerRow.appendChild(headerCell);
-        });
-    
-        thead.appendChild(headerRow)
-        table.appendChild(thead)
-    })
+    const headerRow = document.createElement('tr');
 
     let resultsObject ={
    
 
     }
 
-    for (let i = 0; i < filesToSearch.length; i++) {
-        console.log(filesToSearch[i], "-----", i)        
-        fetch(filesToSearch[i])
+    fetch('/Stats/Women/Season/2023-2024.csv')
         .then(response => response.text())
-        .then(data =>{
-            const lines = data.split("\n")
-            let result = lines.find(line => line.includes(team))
-            let year = filesToSearch[i].slice(-13)
-            year = year.slice(0, -4)
+        .then(data => {
+            const linesofHeader = data.split("\n");
+            const firstLine = linesofHeader[0]; 
+            const headerValues = firstLine.split(",");
+            headerValues[0] = "Season";
+            headerValues.forEach(headerValue => {
+                const headerCell = document.createElement('th');
+                headerCell.textContent = headerValue; 
+                headerRow.appendChild(headerCell);
+            });
 
-            
-            
-            
-            if(result){
-                let newIndex = Object.keys(resultsObject).length + 1; 
-                
-                result = `${year},${result}`
-                resultsObject[newIndex] = result
+            thead.appendChild(headerRow);
+            table.appendChild(thead);
 
-                //  console.log(resultsObject, '!!!!')
-
-                const values = result.split(',');
-                values.splice(1, 1);
-
-                // console.log(values)
-                // values.forEach(() => {
-                //     const headerCell = document.createElement('th');
-                //     headerCell.textContent = 'Value'; // This is the column header
-                //     headerRow.appendChild(headerCell);
-                // });
-
-                // thead.appendChild(headerRow);
-                // table.appendChild(thead);
-
-                const tbody = document.createElement('tbody');
-                const row = document.createElement('tr');
-                
-                values.forEach(value => {
-                    // Create a new table row
-                    // console.log(value)
-                    const cell = document.createElement('td');
-                    cell.textContent = value // Trim any extra spaces
-                    row.appendChild(cell);
-                });
-            
-                // tbody.appendChild(headerRow);
-
-                // Append the table body to the table
-                table.appendChild(row);
-            
-                // Append the table to the container div
-                document.getElementById('statContainer').appendChild(table);
-                
-            }
-            
-            
-            
-            allTimeStats(resultsObject)
+            return Promise.all(filesToSearch.map(file => fetch(file).then(response => response.text())));
         })
-        
-        
-    }
-    
-    
+        .then(allFilesData => {
+            let tableRows = [];
+
+            allFilesData.forEach((data, index) => {
+                const file = filesToSearch[index];
+                const lines = data.split("\n");
+                let result = lines.find(line => line.includes(team));
+                let year = file.slice(-13);
+                year = year.slice(0, -4);
+
+                if (result) {
+                    let newIndex = Object.keys(resultsObject).length + 1; 
+                    result = `${year},${result}`;
+                    resultsObject[newIndex] = result;
+
+                    const values = result.split(',');
+                    values.splice(1, 1);
+
+                    const row = document.createElement('tr');
+                    values.forEach(value => {
+                        const cell = document.createElement('td');
+                        cell.textContent = value;
+                        row.appendChild(cell);
+                    });
+
+                    tableRows.push(row);
+                }
+            });
+
+            tableRows.forEach(row => tbody.appendChild(row));
+            table.appendChild(tbody);
+
+            document.getElementById('statContainer').appendChild(table);
+
+            sortTable(); // Call sortTable after table is appended to DOM
+            allTimeStats(resultsObject)
+        });
 }
+
+function sortTable() {
+    const table = document.getElementById('myTable');
+    const tbody = table.querySelector('tbody');
+    const rowsArray = Array.from(tbody.getElementsByTagName('tr'));
+
+    rowsArray.sort((rowA, rowB) => {
+        const cellA = rowA.getElementsByTagName('td')[0].textContent;
+        const cellB = rowB.getElementsByTagName('td')[0].textContent;
+        const lastTwoA = cellA.slice(-2);
+        const lastTwoB = cellB.slice(-2);
+
+        return lastTwoA.localeCompare(lastTwoB);
+    });
+
+    rowsArray.forEach(row => tbody.appendChild(row));
+}
+
 
 let atsTimesRan =0;
 let catTimesRan =0;
@@ -258,7 +259,7 @@ function calculateAllTime(results, timesRan){
     catTimesRan++
     // console.log(results, '%%%%')
     //create a for loop that loops through object then calculates simultaneously
-    console.log(catTimesRan, ',', timesRan)
+    console.log(catTimesRan, ',', results)
     let listLength = Object.keys(results).length
     let allTimeStatsArray=[]
 
@@ -298,34 +299,17 @@ function calculateAllTime(results, timesRan){
 
             if (results.hasOwnProperty(key)) {
               const array = results[key];
+              console.log(parseInt(array[2]), 'array')
               
                allTimeGames += parseInt(array[2])
                allTimeWins += parseInt(array[3])
                allTimeLosses += parseInt(array[4])
                allTimeTies += parseInt(array[5])
-               allTimeEnds += parseInt(array[10])
-               allTimePF += parseInt(array[11])
-               allTimePA += parseInt(array[12])
 
                allTimePCT += parseFloat(array[6])
-               allTimHE += parseFloat(array[7])
                allTimeEEH += parseFloat(array[8])
                allTimeEES += parseFloat(array[9])
-               alltimePFG += parseFloat(array[13])
-               alltimePAG += parseFloat(array[14])
-               allTimeDiff += parseFloat(array[15])
-               allTimeHammerPFE+= parseFloat(array[16])
-               allTimeHammerPAE+= parseFloat(array[17])
-               allTimeNoHammerPFE+= parseFloat(array[18])
-               allTimenoHammerPAE+= parseFloat(array[19])
-               allTimeEFG+= parseFloat(array[20])
-               allTimeEAG+= parseFloat(array[21])
-               allTimePFE+= parseFloat(array[22])
-               allTimePAE+= parseFloat(array[23])
-               allTimeBEG+= parseFloat(array[24])
-               allTimeSD+= parseFloat(array[25])
-               allTimeFE+= parseFloat(array[26])
-               allTimeSE+= parseFloat(array[27])
+
 
 
 
@@ -363,42 +347,28 @@ function calculateAllTime(results, timesRan){
         allTimeLosses,
         allTimeTies,
         allTimePCT,
-        allTimHE,
         allTimeEEH,
         allTimeEES,
-        allTimeEnds,
-        allTimePF,
-        allTimePA,
-    
-        //Averages
-        alltimePFG,
-        alltimePAG,
-        allTimeDiff,
-        allTimeHammerPFE,
-        allTimeHammerPAE,
-        allTimeNoHammerPFE,
-        allTimenoHammerPAE,
-        allTimeEFG,
-        allTimeEAG,
-        allTimePFE,
-        allTimePAE,
-        allTimeBEG,
-        allTimeSD,
-        allTimeFE,
-        allTimeSE,
+
+
     ]
     allTimeStatsArray.push('All-Time')
     for(let i=0; i < statsToPutIn.length; i++){
-        allTimeStatsArray.push(statsToPutIn[i])
+        if(statsToPutIn != "N/A"){
+
+            allTimeStatsArray.push(statsToPutIn[i])
+        } else{
+            allTimeStatsArray.push('N/A')
+        }
     }
     
     
     console.log(allTimePCT, 'allTimePCT');
     console.log(listLength, 'listlength');
-    if(timesRan==3){
+    // if(timesRan==8){
 
         makeAllTimeTable(allTimeStatsArray)
-    }
+    // }
     
 
 
@@ -423,7 +393,7 @@ function calculateAllTime(results, timesRan){
     .then(response => response.text())
     .then(data =>{
         const linesofHeader = data.split("\n")
-        const firstLine = linesofHeader[0]; 
+        const firstLine = " ,Games, Wins, Losses, Ties, PCT, ExtraEndHammer, ExtraEndSteal"; 
         const headerValues = firstLine.split(",")
         headerValues[0] = ""
         headerValues.forEach(headerValue => {
@@ -459,3 +429,23 @@ function calculateAllTime(results, timesRan){
 
 
 }
+
+// function sortTable() {
+//     const table = document.getElementById('myTable');
+//     const tbody = table.querySelector('tbody');
+//     const rowsArray = Array.from(tbody.getElementsByTagName('tr'));
+
+//     // Sort the rows based on the last 2 characters of the first column's cell
+//     rowsArray.sort((rowA, rowB) => {
+//         const cellA = rowA.getElementsByTagName('td')[0].textContent;
+//         const cellB = rowB.getElementsByTagName('td')[0].textContent;
+//         const lastTwoA = cellA.slice(-2);
+//         const lastTwoB = cellB.slice(-2);
+
+//         // Compare the last two characters
+//         return lastTwoA.localeCompare(lastTwoB);
+//     });
+
+//     // Re-append the sorted rows to the tbody
+//     rowsArray.forEach(row => tbody.appendChild(row));
+// }

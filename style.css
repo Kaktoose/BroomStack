@@ -139,3 +139,22 @@ a.listedName{
     display: block;
     text-align: center;
 }
+
+#inputContainer{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+#allTimeTable{
+    margin: 10px;
+    display: inline-block;
+}
+
+#allTimeTeamName{
+    text-align: center;
+}
+
+#all-time{
+    text-align: center;
+}
