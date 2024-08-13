@@ -132,3 +132,10 @@ th.sorted-desc::after {
 th.unsorted::after{
     content: ' \21C5'
 }
+
+a.listedName{
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}

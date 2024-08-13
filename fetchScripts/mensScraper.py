@@ -5,10 +5,10 @@ import csv
 
 
 teamLinkList = []
-
+filePath = "Stats/Men/Season/2022-2023.csv"
 
 def fetchMensTeams():
-    url = "https://www.curlingzone.com/teams.php?et=81&ey=2024"
+    url = "https://www.curlingzone.com/teams.php?et=81&ey=2023"
     response = requests.get(url)
 
     if response.status_code == 200:
@@ -26,9 +26,9 @@ def fetchMensTeams():
     
     # print(teamLinkList)
     print('now fetching data')
-    with open('mensteams.txt', 'w') as f:
-        for line in teamLinkList:
-            f.write(f"{line}\n")
+    # with open('mensteams.txt', 'w') as f:
+    #     for line in teamLinkList:
+    #         f.write(f"{line}\n")
 
 
     
@@ -41,7 +41,7 @@ def fetchMensTeams():
 
 
 def fetchData():
-    f = open("mensStats.csv", 'w')
+    f = open(filePath, 'w')
     
     f.write("Team, GamesPlayed, Wins, Losses, Ties, PCT, HammerEfficiency, ExtraEndHammer, ExtraEndSteal, Ends, PointsFor, PointsAgainst, PointsFor/Game, PointsAgainst/Game, AvgDiff, HammerPF/E, HammerPA/E, NoHammerPF/E, NoHammerPA/E, EndsFor/Game, EndsAgainst/Game, PointsFor/End, PointsAgainst/End, BigEnds/Game, StealDefence, ForceEfficiency, StealEfficiency \n")   
     noduplicatelist = list(dict.fromkeys(teamLinkList))
