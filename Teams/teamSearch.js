@@ -1,10 +1,64 @@
 
 let csvFiles= []
 document.addEventListener('DOMContentLoaded', () => {
-    let mensFiles = ['/Stats/Men/Season/2023-2024.csv', '/Stats/Men/Season/2022-2023.csv', '/Stats/Men/Season/2021-2022.csv', '/Stats/Men/Season/2020-2021.csv']
-    let womensFiles = ['/Stats/Women/Season/2023-2024.csv', '/Stats/Women/Season/2022-2023.csv', '/Stats/Women/Season/2021-2022.csv', '/Stats/Women/Season/2020-2021.csv']
-    
-    const csvFiles = ['/Stats/Men/Season/2023-2024.csv', '/Stats/Men/Season/2022-2023.csv', '/Stats/Men/Season/2021-2022.csv','/Stats/Men/Season/2020-2021.csv', '/Stats/Women/Season/2023-2024.csv', '/Stats/Women/Season/2022-2023.csv', '/Stats/Women/Season/2021-2022.csv', '/Stats/Women/Season/2020-2021.csv']
+    let mensFiles = [
+        '/Stats/Men/Season/2011-2012.csv',
+        '/Stats/Men/Season/2012-2013.csv',
+        '/Stats/Men/Season/2013-2014.csv',
+        '/Stats/Men/Season/2014-2015.csv',
+        '/Stats/Men/Season/2015-2016.csv',
+        '/Stats/Men/Season/2016-2017.csv',
+        '/Stats/Men/Season/2017-2018.csv',
+        '/Stats/Men/Season/2018-2019.csv',
+        '/Stats/Men/Season/2019-2020.csv',
+        '/Stats/Men/Season/2020-2021.csv',
+        '/Stats/Men/Season/2021-2022.csv',
+        '/Stats/Men/Season/2022-2023.csv',
+        '/Stats/Men/Season/2023-2024.csv'
+    ];     
+    let womensFiles = [
+        '/Stats/Women/Season/2011-2012.csv',
+        '/Stats/Women/Season/2012-2013.csv',
+        '/Stats/Women/Season/2013-2014.csv',
+        '/Stats/Women/Season/2014-2015.csv',
+        '/Stats/Women/Season/2015-2016.csv',
+        '/Stats/Women/Season/2016-2017.csv',
+        '/Stats/Women/Season/2017-2018.csv',
+        '/Stats/Women/Season/2018-2019.csv',
+        '/Stats/Women/Season/2019-2020.csv',
+        '/Stats/Women/Season/2020-2021.csv',
+        '/Stats/Women/Season/2021-2022.csv',
+        '/Stats/Women/Season/2022-2023.csv',
+        '/Stats/Women/Season/2023-2024.csv'
+    ];    
+    const csvFiles = [
+        '/Stats/Women/Season/2011-2012.csv',
+        '/Stats/Women/Season/2012-2013.csv',
+        '/Stats/Women/Season/2013-2014.csv',
+        '/Stats/Women/Season/2014-2015.csv',
+        '/Stats/Women/Season/2015-2016.csv',
+        '/Stats/Women/Season/2016-2017.csv',
+        '/Stats/Women/Season/2017-2018.csv',
+        '/Stats/Women/Season/2018-2019.csv',
+        '/Stats/Women/Season/2019-2020.csv',
+        '/Stats/Women/Season/2020-2021.csv',
+        '/Stats/Women/Season/2021-2022.csv',
+        '/Stats/Women/Season/2022-2023.csv',
+        '/Stats/Women/Season/2023-2024.csv',
+        '/Stats/Men/Season/2011-2012.csv',
+        '/Stats/Men/Season/2012-2013.csv',
+        '/Stats/Men/Season/2013-2014.csv',
+        '/Stats/Men/Season/2014-2015.csv',
+        '/Stats/Men/Season/2015-2016.csv',
+        '/Stats/Men/Season/2016-2017.csv',
+        '/Stats/Men/Season/2017-2018.csv',
+        '/Stats/Men/Season/2018-2019.csv',
+        '/Stats/Men/Season/2019-2020.csv',
+        '/Stats/Men/Season/2020-2021.csv',
+        '/Stats/Men/Season/2021-2022.csv',
+        '/Stats/Men/Season/2022-2023.csv',
+        '/Stats/Men/Season/2023-2024.csv'
+    ]
 
     const teamContainer = document.getElementById('teamContainer');
     const searchInput = document.getElementById('teamSearch');
@@ -112,14 +166,32 @@ function buildPage(team) {
     document.getElementById('allTimeTeamName').innerHTML = team;
 
     const filesToSearch = [
-        '/Stats/Men/Season/2023-2024.csv', 
-        '/Stats/Men/Season/2022-2023.csv', 
+        '/Stats/Women/Season/2011-2012.csv',
+        '/Stats/Women/Season/2012-2013.csv',
+        '/Stats/Women/Season/2013-2014.csv',
+        '/Stats/Women/Season/2014-2015.csv',
+        '/Stats/Women/Season/2015-2016.csv',
+        '/Stats/Women/Season/2016-2017.csv',
+        '/Stats/Women/Season/2017-2018.csv',
+        '/Stats/Women/Season/2018-2019.csv',
+        '/Stats/Women/Season/2019-2020.csv',
+        '/Stats/Women/Season/2020-2021.csv',
+        '/Stats/Women/Season/2021-2022.csv',
+        '/Stats/Women/Season/2022-2023.csv',
+        '/Stats/Women/Season/2023-2024.csv',
+        '/Stats/Men/Season/2011-2012.csv',
+        '/Stats/Men/Season/2012-2013.csv',
+        '/Stats/Men/Season/2013-2014.csv',
+        '/Stats/Men/Season/2014-2015.csv',
+        '/Stats/Men/Season/2015-2016.csv',
+        '/Stats/Men/Season/2016-2017.csv',
+        '/Stats/Men/Season/2017-2018.csv',
+        '/Stats/Men/Season/2018-2019.csv',
+        '/Stats/Men/Season/2019-2020.csv',
+        '/Stats/Men/Season/2020-2021.csv',
         '/Stats/Men/Season/2021-2022.csv',
-        '/Stats/Men/Season/2020-2021.csv', 
-        '/Stats/Women/Season/2023-2024.csv', 
-        '/Stats/Women/Season/2022-2023.csv', 
-        '/Stats/Women/Season/2021-2022.csv', 
-        '/Stats/Women/Season/2020-2021.csv'
+        '/Stats/Men/Season/2022-2023.csv',
+        '/Stats/Men/Season/2023-2024.csv'
     ];
 
     const table = document.createElement('table');
@@ -169,7 +241,30 @@ function buildPage(team) {
 
                     const values = result.split(',');
                     values.splice(1, 1);
+                    if(values[6] != "N/A"){
 
+                        values[6] = values[6] *= 100
+            
+                        values[6]  =`${values[6]}%`
+                    }
+                    if(values[24] != "N/A"){
+            
+                        values[24] = values[24] *= 100
+            
+                        values[24]  =`${values[24]}%`
+                    }
+                    if(values[25] != "N/A"){
+            
+                        values[25] = values[25] *= 100
+            
+                        values[25]  =`${values[25]}%`
+                    }
+                    if(values[26] != "N/A"){
+            
+                        values[26] = values[26] *= 100
+            
+                        values[26]  =`${values[26]}%`
+                    }
                     const row = document.createElement('tr');
                     values.forEach(value => {
                         const cell = document.createElement('td');
@@ -337,6 +432,17 @@ function calculateAllTime(results, timesRan){
     allTimeSD /= listLength 
     allTimeFE /= listLength 
     allTimeSE /= listLength 
+
+    allTimeFE *= listLength 
+    allTimHE *= listLength 
+
+    allTimeSE *= listLength 
+
+    allTimeFE = `${allTimeFE}%`
+    allTimHE += "%" 
+
+    allTimeSE += "%" 
+
 
 
 

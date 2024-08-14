@@ -54,6 +54,30 @@ function csvToTable(csv) {
         tr.appendChild(rowNumberCell);
 
         const cells = row.split(',');
+        if(cells[6] != "N/A"){
+
+            cells[6] = cells[6] *= 100
+
+            cells[6]  =`${cells[6]}%`
+        }
+        if(cells[24] != "N/A"){
+
+            cells[24] = cells[24] *= 100
+
+            cells[24]  =`${cells[24]}%`
+        }
+        if(cells[25] != "N/A"){
+
+            cells[25] = cells[25] *= 100
+
+            cells[25]  =`${cells[25]}%`
+        }
+        if(cells[26] != "N/A"){
+
+            cells[26] = cells[26] *= 100
+
+            cells[26]  =`${cells[26]}%`
+        }
         cells.forEach(cell => {
             const td = document.createElement('td');
             td.textContent = cell;
