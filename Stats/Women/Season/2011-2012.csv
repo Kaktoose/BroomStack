@@ -1,333 +1,333 @@
-Team, GamesPlayed, Wins, Losses, Ties, PCT, HammerEfficiency, ExtraEndHammer, ExtraEndSteal, Ends, PointsFor, PointsAgainst, PointsFor/Game, PointsAgainst/Game, AvgDiff, HammerPF/E, HammerPA/E, NoHammerPF/E, NoHammerPA/E, EndsFor/Game, EndsAgainst/Game, PointsFor/End, PointsAgainst/End, BigEnds/Game, StealDefence, ForceEfficiency, StealEfficiency 
-Jennifer Jones, 100, 73, 27, 0, 0.730, N/A, 0.6, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mirjam Ott, 88, 68, 20, 0, 0.773, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Silvana Tirinzoni, 92, 58, 34, 0, 0.630, N/A, 0.6666666666666666, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sherry Middaugh, 74, 57, 17, 0, 0.770, N/A, 1.0, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Liudmila Privivkova, 92, 56, 36, 0, 0.609, N/A, 0.8, 0.25, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cathy Overton-Clapham, 86, 53, 33, 0, 0.616, N/A, 0.9, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Margaretha Sigfridsson, 69, 52, 17, 0, 0.754, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Michele Jaeggi, 73, 52, 21, 0, 0.712, N/A, 0.8333333333333334, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Heather Nedohin, 88, 51, 37, 0, 0.580, N/A, 0.75, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chelsea Carey, 87, 49, 38, 0, 0.563, N/A, 0.5714285714285714, 0.14285714285714285, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Eve Muirhead, 71, 47, 23, 1, 0.671, N/A, 0.8333333333333334, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bingyu Wang, 68, 39, 29, 0, 0.574, N/A, 0.0, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kelly Scott, 63, 38, 25, 0, 0.603, N/A, 0.4, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Stefanie Lawton, 56, 37, 19, 0, 0.661, N/A, 0.5, 0.14285714285714285, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Crystal Webster, 58, 37, 21, 0, 0.638, N/A, 0.75, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Olga Zyablikova, 63, 37, 26, 0, 0.587, N/A, 0.6666666666666666, 0.16666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Renee Sonnenberg, 56, 36, 20, 0, 0.643, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cheryl Bernard, 57, 34, 23, 0, 0.596, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shannon Kleibrink, 51, 33, 18, 0, 0.647, N/A, 0.6666666666666666, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Anette Norberg, 44, 32, 12, 0, 0.727, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Laura Crocker, 51, 32, 19, 0, 0.627, N/A, 0.3333333333333333, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Val Sweeting, 52, 32, 20, 0, 0.615, N/A, 0.6666666666666666, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Anna Hasselborg, 56, 32, 24, 0, 0.571, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Binia Feltscher, 66, 32, 33, 1, 0.492, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Becca Hamilton, 49, 31, 18, 0, 0.633, N/A, 0.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tracy Fleury, 54, 31, 23, 0, 0.574, N/A, 0, 0.6, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Krista McCarville, 44, 30, 14, 0, 0.682, N/A, 0.6666666666666666, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Oona Kauste, 59, 30, 28, 1, 0.517, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Barb Spencer, 44, 29, 15, 0, 0.659, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Allison Pottinger, 49, 29, 20, 0, 0.592, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kelley Law, 39, 28, 11, 0, 0.718, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Erika Brown, 52, 28, 24, 0, 0.538, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rachel Homan, 40, 27, 13, 0, 0.675, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jessie Hunkin, 47, 27, 20, 0, 0.574, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Julie Hastings, 39, 26, 13, 0, 0.667, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cathy Auld, 43, 26, 17, 0, 0.605, N/A, 0.75, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jenn Hanna, 34, 25, 9, 0, 0.735, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cassie Potter, 41, 25, 16, 0, 0.610, N/A, 0.3333333333333333, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Andrea Schoepp, 41, 24, 17, 0, 0.585, N/A, 0.75, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Aileen Geving, 44, 24, 20, 0, 0.545, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Amber Holland, 48, 24, 24, 0, 0.500, N/A, 0.0, 0.4, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jill Thurston, 52, 24, 28, 0, 0.462, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dana Ferguson, 37, 23, 14, 0, 0.622, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sarah Reid, 35, 22, 13, 0, 0.629, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lene Nielsen, 40, 22, 18, 0, 0.550, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jonna McManus, 34, 21, 13, 0, 0.618, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Heather Smith, 35, 21, 14, 0, 0.600, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ji-Sun Kim, 35, 21, 14, 0, 0.600, N/A, 0.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ellen Vogt, 39, 21, 18, 0, 0.538, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Janet Harvey, 39, 21, 18, 0, 0.538, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Patti Lank, 44, 21, 23, 0, 0.477, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Michelle Englot, 32, 20, 12, 0, 0.625, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lisa Eyamie, 43, 20, 23, 0, 0.465, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Linda Klimova, 47, 20, 27, 0, 0.426, N/A, 1.0, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marie-France Larouche, 32, 19, 13, 0, 0.594, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nadine Scotland, 34, 19, 15, 0, 0.559, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Roselyn Craig, 35, 19, 16, 0, 0.543, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kristy Lewis, 35, 19, 16, 0, 0.543, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kirsten Wall, 38, 19, 19, 0, 0.500, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Casey Scheidegger, 39, 19, 20, 0, 0.487, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Allison Flaxey, 42, 19, 23, 0, 0.452, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jocelyn Peterman, 24, 18, 6, 0, 0.750, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Daniela Jentsch, 36, 18, 18, 0, 0.500, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chrissy Cadorin, 42, 18, 24, 0, 0.429, N/A, 0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alina Paetz, 42, 18, 24, 0, 0.429, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marla Mallett, 32, 17, 15, 0, 0.531, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Anne Malmi, 23, 16, 7, 0, 0.696, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Hannah Fleming, 25, 16, 9, 0, 0.640, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ildiko Szekeres, 25, 16, 9, 0, 0.640, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Joelle Brown, 26, 16, 10, 0, 0.615, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marlo Dahl, 26, 16, 10, 0, 0.615, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alexandra Carlson, 28, 16, 12, 0, 0.571, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Allison MacInnes, 34, 16, 18, 0, 0.471, N/A, 0.8, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Suzanne Birt, 25, 15, 10, 0, 0.600, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marika Bakewell, 25, 15, 10, 0, 0.600, N/A, 0.5, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jackie Lockhart, 27, 15, 11, 1, 0.577, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Darcy Robertson, 29, 15, 14, 0, 0.517, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Julie Tippin, 29, 15, 14, 0, 0.517, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kathy Brown, 30, 15, 15, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Leslie Bishop, 31, 15, 16, 0, 0.484, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lisa Farnell, 32, 15, 17, 0, 0.469, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Robyn Silvernagle, 33, 15, 18, 0, 0.455, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shannon Birchard, 18, 14, 4, 0, 0.778, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Maureen Stolt, 26, 14, 12, 0, 0.538, N/A, 0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nicole Backe, 29, 14, 15, 0, 0.483, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rebecca Atkinson, 23, 13, 10, 0, 0.565, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kesa Van Osch, 23, 13, 10, 0, 0.565, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shinobu Aota, 26, 13, 13, 0, 0.500, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Janet McGhee, 27, 13, 14, 0, 0.481, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kerry Galusha, 29, 13, 16, 0, 0.448, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jolene Campbell, 29, 13, 16, 0, 0.448, N/A, 0.6, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Katja Kiiskinen, 20, 12, 8, 0, 0.600, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chantelle Eberle, 26, 12, 14, 0, 0.462, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jamie Sinclair, 29, 12, 17, 0, 0.414, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Desiree Owen, 31, 12, 19, 0, 0.387, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Delia DeJong, 38, 12, 26, 0, 0.316, N/A, 0.5, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lisa DeRiviere, 17, 11, 6, 0, 0.647, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Miranda Solem, 21, 11, 10, 0, 0.524, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Heather Strong, 22, 11, 11, 0, 0.500, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Diana Gaspari, 31, 11, 20, 0, 0.355, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Corinne Bourquin, 40, 11, 29, 0, 0.275, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Gail Munro, 16, 10, 6, 0, 0.625, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kelsey Boettcher, 18, 10, 8, 0, 0.556, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sarah Fullerton, 18, 10, 8, 0, 0.556, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Hedvig Kamp, 20, 10, 10, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Madeleine Dupont, 20, 10, 10, 0, 0.500, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jen Rusnell, 22, 10, 12, 0, 0.455, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Satsuki Fujisawa, 24, 10, 14, 0, 0.417, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kelly Cochrane, 24, 10, 14, 0, 0.417, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tanilla Doyle, 25, 10, 15, 0, 0.400, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cory Christensen, 25, 10, 15, 0, 0.400, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kim Link, 27, 10, 17, 0, 0.370, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lauren Mann, 14, 9, 5, 0, 0.643, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kristy Russell, 16, 9, 7, 0, 0.563, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tiffany Game, 17, 9, 8, 0, 0.529, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tiffany Steuber, 17, 9, 8, 0, 0.529, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Elzbieta Ran, 12, 8, 4, 0, 0.667, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mary-Anne Arsenault, 13, 8, 5, 0, 0.615, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sara McManus, 13, 8, 5, 0, 0.615, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Gabriela Kajanova, 13, 8, 5, 0, 0.615, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Karen Rosser, 15, 8, 7, 0, 0.533, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Holly Baird, 17, 8, 9, 0, 0.471, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Trish Paulsen, 17, 8, 9, 0, 0.471, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jill Shumay, 17, 8, 9, 0, 0.471, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kim Dolan, 18, 8, 10, 0, 0.444, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brett Barber, 19, 8, 11, 0, 0.421, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ayumi Ogasawara, 19, 8, 11, 0, 0.421, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kimberly Mastine, 21, 8, 13, 0, 0.381, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Melanie Barbezat, 21, 8, 13, 0, 0.381, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Paulina Stein, 22, 8, 14, 0, 0.364, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Zuzana Hajkova, 12, 7, 5, 0, 0.583, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Emily Dwyer, 12, 7, 5, 0, 0.583, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Candace Chisholm, 13, 7, 6, 0, 0.538, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jenna Haag, 14, 7, 7, 0, 0.500, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sayaka Yoshimura, 14, 7, 7, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Liza Park, 16, 7, 9, 0, 0.438, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shana Snell, 16, 7, 9, 0, 0.438, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Susan McKnight, 17, 7, 10, 0, 0.412, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Roxane Perron, 17, 7, 10, 0, 0.412, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lisa Johnson, 17, 7, 10, 0, 0.412, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Heather Heggestad, 18, 7, 11, 0, 0.389, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sylvie Robichaud, 8, 6, 2, 0, 0.750, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mary Mattatall, 9, 6, 3, 0, 0.667, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Hannah Ely, 10, 6, 4, 0, 0.600, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kelly Backman, 12, 6, 6, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Stacie Curtis, 12, 6, 6, 0, 0.500, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kendra Lilly, 12, 6, 6, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kristen Streifel, 12, 6, 6, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Briane Meilleur, 14, 6, 8, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Karina Toth, 15, 6, 9, 0, 0.400, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shelly Kinney, 15, 6, 9, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Diane Foster, 16, 6, 10, 0, 0.375, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jaimee Gardner, 17, 6, 11, 0, 0.353, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Karen Sagle, 18, 6, 12, 0, 0.333, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jan Betker, 7, 5, 2, 0, 0.714, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Olga Zharkova, 8, 5, 3, 0, 0.625, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Vicky Persinger, 9, 5, 4, 0, 0.556, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Robyn Mattie, 9, 5, 4, 0, 0.556, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mary Jane McGuire, 9, 5, 4, 0, 0.556, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Colleen Pinkney, 9, 5, 4, 0, 0.556, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kristiine Lill, 10, 5, 5, 0, 0.500, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Liane Fossum, 10, 5, 5, 0, 0.500, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jennifer Armstrong, 12, 5, 7, 0, 0.417, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Allison Ross, 13, 5, 8, 0, 0.385, N/A, 0.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brandi Tinkler, 13, 5, 8, 0, 0.385, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Karla Thompson, 13, 5, 8, 0, 0.385, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cheryl McBain, 14, 5, 9, 0, 0.357, N/A, 0, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tracy Samaan, 14, 5, 9, 0, 0.357, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alison Goring, 14, 5, 9, 0, 0.357, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Laura Payne, 14, 5, 9, 0, 0.357, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brenda Doroshuk, 16, 5, 11, 0, 0.313, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Terry Ursel, 17, 5, 12, 0, 0.294, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Linn Githmark, 18, 5, 13, 0, 0.278, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Juliane Jacoby, 19, 5, 14, 0, 0.263, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sheri Pickering, 19, 5, 14, 0, 0.263, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kimberly Wapola, 19, 5, 14, 0, 0.263, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Patti Knezevic, 20, 5, 15, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Meaghan Hughes, 6, 4, 2, 0, 0.667, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sherrilee Orsted, 7, 4, 3, 0, 0.571, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Linda Stewart, 9, 4, 5, 0, 0.444, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Julie Hamel, 9, 4, 5, 0, 0.444, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Abigayle Lindgren, 9, 4, 5, 0, 0.444, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Camille Crottaz, 11, 4, 7, 0, 0.364, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sarah Koltun, 12, 4, 8, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ditte Karlsson, 12, 4, 8, 0, 0.333, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Victoria Makarshina, 12, 4, 8, 0, 0.333, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brandee Borne, 13, 4, 9, 0, 0.308, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Anna Kubeskova, 14, 4, 10, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Vanessa Pouliot, 14, 4, 10, 0, 0.286, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Penny Barker, 15, 4, 11, 0, 0.267, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-MinJung Kim, 4, 3, 1, 0, 0.750, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ling-Yue Hung, 5, 3, 2, 0, 0.600, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Eve Belisle, 5, 3, 2, 0, 0.600, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marilyn Bodogh, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Caitlin Romain, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Falon Burkitt, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Laura Phillips, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Margie Smith, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mitch Baker, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Deanna Doig, 6, 3, 3, 0, 0.500, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jessica Ronalds, 7, 3, 4, 0, 0.429, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kelsey Russill, 7, 3, 4, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-EunJung Kim, 7, 3, 4, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Melissa Adams, 7, 3, 4, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Coralie Ayre, 7, 3, 4, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kai Tsuchiya, 7, 3, 4, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jackie Komyshyn, 8, 3, 5, 0, 0.375, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jennifer Dodds, 8, 3, 5, 0, 0.375, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Erika Sigurdson, 8, 3, 5, 0, 0.375, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Betty Buurma, 8, 3, 5, 0, 0.375, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Fiona Hawker, 9, 3, 6, 0, 0.333, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Courtney Hodgson, 9, 3, 6, 0, 0.333, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Katie Lindsay, 9, 3, 6, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marie-Christine Cantin, 9, 3, 6, 0, 0.333, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dale Curtis, 9, 3, 6, 0, 0.333, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rachel Fritzler, 10, 3, 7, 0, 0.300, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Martina Strnadova, 11, 3, 8, 0, 0.273, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sian Canavan, 12, 3, 9, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Erica Trickett, 12, 3, 9, 0, 0.250, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kerry Clark, 13, 3, 10, 0, 0.231, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Janice Langanke, 13, 3, 10, 0, 0.231, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kristine Wedum Davanger, 13, 3, 10, 0, 0.231, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brigid Knowles, 14, 3, 11, 0, 0.214, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lisa Menard, 14, 3, 11, 0, 0.214, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Monika Mabergs, 15, 3, 12, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Morgan Muise, 15, 3, 12, 0, 0.200, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Oihane Otaegi, 18, 3, 15, 0, 0.167, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Melanie Wild, 19, 3, 16, 0, 0.158, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kirsti Kauste, 20, 3, 17, 0, 0.150, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lesley Pyne, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Heather Carr Olmstead, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ann Pearson, 4, 2, 2, 0, 0.500, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shelly Houle, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jennifer Sande, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Katie Spencer, 5, 2, 3, 0, 0.400, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cathy King, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Amanda Tucker, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tirzah Keffer, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Darlene Gillies, 5, 2, 3, 0, 0.400, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nathalie Gagnon, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mandy Selzer, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Isabelle Maillard, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-LeeAnne Ursel, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shelley Hardy, 5, 2, 3, 0, 0.400, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ramona Meier, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ashley Kallos, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Angie Melaney, 7, 2, 5, 0, 0.286, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marin McLeod, 7, 2, 5, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kathleen Trites, 7, 2, 5, 0, 0.286, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-D'Arcy Maywood, 7, 2, 5, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sandy Comeau, 7, 2, 5, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jocelyn Nix, 7, 2, 5, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sarah Murphy, 7, 2, 5, 0, 0.286, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jill Andrews, 8, 2, 6, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Karlee Jones, 8, 2, 6, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Federica Apollonio, 9, 2, 7, 0, 0.222, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brooklyn Lemon, 9, 2, 7, 0, 0.222, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rachel Tharalson, 9, 2, 7, 0, 0.222, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kelly Thompson, 9, 2, 7, 0, 0.222, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kaitlin Stubbs, 9, 2, 7, 0, 0.222, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Amy Anderson, 9, 2, 7, 0, 0.222, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jennifer Harvey, 10, 2, 8, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cristin Clark, 11, 2, 9, 0, 0.182, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Leandra Mueller, 11, 2, 9, 0, 0.182, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Simone Groundwater, 12, 2, 10, 0, 0.167, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Taryn Williams, 12, 2, 10, 0, 0.167, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jennifer Martin, 13, 2, 11, 0, 0.154, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ineta Maca, 13, 2, 11, 0, 0.154, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ashley Waye, 21, 2, 19, 0, 0.095, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Deb McCreanor, -3, 1, -4, 0, -0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nicole Montgomery, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Karli Makichuk, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jennifer Wickenheiser, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Laura Gualtiero, 4, 1, 3, 0, 0.250, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nicole Reiser, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Katie Morrissey, 4, 1, 3, 0, 0.250, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Carolyn McRorie, 4, 1, 3, 0, 0.250, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Suzanne Marcoux, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Christine McCrady, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Erin Macaulay, 4, 1, 3, 0, 0.250, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Penny Shantz, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lynne Noble, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Helene Pelchat, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marianne Rorvik, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Debbie Folk, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mari Motohashi, 4, 1, 3, 0, 0.250, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Beth Hamilton, 4, 1, 3, 0, 0.250, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Iveta Stasa-Sarsune, 5, 1, 4, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alex Williamson, 5, 1, 4, 0, 0.200, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tammy Dewar, 5, 1, 4, 0, 0.200, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Colleen Jones, 5, 1, 4, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Donna Butler, 5, 1, 4, 0, 0.200, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Evita Regza, 5, 1, 4, 0, 0.200, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Susan Lang, 5, 1, 4, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alyssa Kyllo, 5, 1, 4, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Yue Sun, 7, 1, 6, 0, 0.143, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Desiree Borsato, 8, 1, 7, 0, 0.125, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Gina Aitken, 8, 1, 7, 0, 0.125, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nadine Lehmann, 8, 1, 7, 0, 0.125, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chana Martineau, 9, 1, 8, 0, 0.111, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Emily Walker, 9, 1, 8, 0, 0.111, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Carolyn Hibberd, 9, 1, 8, 0, 0.111, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shelby Sweet, 9, 1, 8, 0, 0.111, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Michelle Corbeil, 12, 1, 11, 0, 0.083, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sofia Gustafsson, 13, 1, 12, 0, 0.077, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Taru Oksanen, 20, 1, 19, 0, 0.050, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marie Christianson, 0, 0, 0, 0, ---, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Andrea Crawford, 0, 0, 0, 0, ---, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kathy O'Rourke, 0, 0, 0, 0, ---, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Amanda Tymchuk, 0, 0, 0, 0, ---, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Michelle DeBuck, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Glenys Bakker, 3, 0, 3, 0, 0.000, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alyssa Calvert, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nola Zingel, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Maria Yanko, 3, 0, 3, 0, 0.000, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alicia Wenger, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Meghan Armit, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Candace Read, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Erin Butler, 3, 0, 3, 0, 0.000, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Megan St. Amand, 4, 0, 4, 0, 0.000, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Pia Trulsen, 4, 0, 4, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Delaine Payton, 4, 0, 4, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Stephanie Prinse, 4, 0, 4, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-LeAnne Andrews, 4, 0, 4, 0, 0.000, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lorraine Schneider, 5, 0, 5, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nathalie Falt, 5, 0, 5, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marissa Messier, 5, 0, 5, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Yilun Jiang, 7, 0, 7, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lori Forbes, 7, 0, 7, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Laura Beever, 9, 0, 9, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Laura Forget, 9, 0, 9, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Michelle Montford, 10, -5, 15, 0, -0.500, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
+Team, GamesPlayed, Wins, Losses, Ties, PCT, HammerEfficiency, StealDefence, StealEfficiency, ForceEfficiency, BlankEnds, BlankEnds/Game, ExtraEndHammer, ExtraEndSteal, Ends, PointsFor, PointsAgainst, PointsFor/Game, PointsAgainst/Game, AvgDiff, HammerPF/E, HammerPA/E, NoHammerPF/E, NoHammerPA/E, EndsFor/Game, EndsAgainst/Game, PointsFor/End, PointsAgainst/End 
+Jennifer Jones, 100, 73, 27, 0, 0.730, N/A, N/A, N/A, N/A, N/A, N/A, 0.6, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mirjam Ott, 88, 68, 20, 0, 0.773, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Silvana Tirinzoni, 92, 58, 34, 0, 0.630, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sherry Middaugh, 74, 57, 17, 0, 0.770, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Liudmila Privivkova, 92, 56, 36, 0, 0.609, N/A, N/A, N/A, N/A, N/A, N/A, 0.8, 0.25, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cathy Overton-Clapham, 86, 53, 33, 0, 0.616, N/A, N/A, N/A, N/A, N/A, N/A, 0.9, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Margaretha Sigfridsson, 69, 52, 17, 0, 0.754, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Michele Jaeggi, 73, 52, 21, 0, 0.712, N/A, N/A, N/A, N/A, N/A, N/A, 0.8333333333333334, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Heather Nedohin, 88, 51, 37, 0, 0.580, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chelsea Carey, 87, 49, 38, 0, 0.563, N/A, N/A, N/A, N/A, N/A, N/A, 0.5714285714285714, 0.14285714285714285, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Eve Muirhead, 71, 47, 23, 1, 0.671, N/A, N/A, N/A, N/A, N/A, N/A, 0.8333333333333334, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bingyu Wang, 68, 39, 29, 0, 0.574, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kelly Scott, 63, 38, 25, 0, 0.603, N/A, N/A, N/A, N/A, N/A, N/A, 0.4, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Stefanie Lawton, 56, 37, 19, 0, 0.661, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.14285714285714285, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Crystal Webster, 58, 37, 21, 0, 0.638, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Olga Zyablikova, 63, 37, 26, 0, 0.587, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 0.16666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Renee Sonnenberg, 56, 36, 20, 0, 0.643, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cheryl Bernard, 57, 34, 23, 0, 0.596, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shannon Kleibrink, 51, 33, 18, 0, 0.647, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Anette Norberg, 44, 32, 12, 0, 0.727, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Laura Crocker, 51, 32, 19, 0, 0.627, N/A, N/A, N/A, N/A, N/A, N/A, 0.3333333333333333, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Val Sweeting, 52, 32, 20, 0, 0.615, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Anna Hasselborg, 56, 32, 24, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Binia Feltscher, 66, 32, 33, 1, 0.492, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Becca Hamilton, 49, 31, 18, 0, 0.633, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tracy Fleury, 54, 31, 23, 0, 0.574, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.6, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Krista McCarville, 44, 30, 14, 0, 0.682, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Oona Kauste, 59, 30, 28, 1, 0.517, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Barb Spencer, 44, 29, 15, 0, 0.659, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Allison Pottinger, 49, 29, 20, 0, 0.592, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kelley Law, 39, 28, 11, 0, 0.718, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Erika Brown, 52, 28, 24, 0, 0.538, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rachel Homan, 40, 27, 13, 0, 0.675, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jessie Hunkin, 47, 27, 20, 0, 0.574, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Julie Hastings, 39, 26, 13, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cathy Auld, 43, 26, 17, 0, 0.605, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jenn Hanna, 34, 25, 9, 0, 0.735, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cassie Potter, 41, 25, 16, 0, 0.610, N/A, N/A, N/A, N/A, N/A, N/A, 0.3333333333333333, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Andrea Schoepp, 41, 24, 17, 0, 0.585, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Aileen Geving, 44, 24, 20, 0, 0.545, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Amber Holland, 48, 24, 24, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.4, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jill Thurston, 52, 24, 28, 0, 0.462, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dana Ferguson, 37, 23, 14, 0, 0.622, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sarah Reid, 35, 22, 13, 0, 0.629, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lene Nielsen, 40, 22, 18, 0, 0.550, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jonna McManus, 34, 21, 13, 0, 0.618, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Heather Smith, 35, 21, 14, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ji-Sun Kim, 35, 21, 14, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ellen Vogt, 39, 21, 18, 0, 0.538, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Janet Harvey, 39, 21, 18, 0, 0.538, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Patti Lank, 44, 21, 23, 0, 0.477, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Michelle Englot, 32, 20, 12, 0, 0.625, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lisa Eyamie, 43, 20, 23, 0, 0.465, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Linda Klimova, 47, 20, 27, 0, 0.426, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marie-France Larouche, 32, 19, 13, 0, 0.594, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nadine Scotland, 34, 19, 15, 0, 0.559, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Roselyn Craig, 35, 19, 16, 0, 0.543, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kristy Lewis, 35, 19, 16, 0, 0.543, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kirsten Wall, 38, 19, 19, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Casey Scheidegger, 39, 19, 20, 0, 0.487, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Allison Flaxey, 42, 19, 23, 0, 0.452, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jocelyn Peterman, 24, 18, 6, 0, 0.750, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Daniela Jentsch, 36, 18, 18, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chrissy Cadorin, 42, 18, 24, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alina Paetz, 42, 18, 24, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marla Mallett, 32, 17, 15, 0, 0.531, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Anne Malmi, 23, 16, 7, 0, 0.696, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Hannah Fleming, 25, 16, 9, 0, 0.640, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ildiko Szekeres, 25, 16, 9, 0, 0.640, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Joelle Brown, 26, 16, 10, 0, 0.615, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marlo Dahl, 26, 16, 10, 0, 0.615, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alexandra Carlson, 28, 16, 12, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Allison MacInnes, 34, 16, 18, 0, 0.471, N/A, N/A, N/A, N/A, N/A, N/A, 0.8, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Suzanne Birt, 25, 15, 10, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marika Bakewell, 25, 15, 10, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jackie Lockhart, 27, 15, 11, 1, 0.577, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Darcy Robertson, 29, 15, 14, 0, 0.517, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Julie Tippin, 29, 15, 14, 0, 0.517, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kathy Brown, 30, 15, 15, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Leslie Bishop, 31, 15, 16, 0, 0.484, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lisa Farnell, 32, 15, 17, 0, 0.469, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Robyn Silvernagle, 33, 15, 18, 0, 0.455, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shannon Birchard, 18, 14, 4, 0, 0.778, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Maureen Stolt, 26, 14, 12, 0, 0.538, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nicole Backe, 29, 14, 15, 0, 0.483, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rebecca Atkinson, 23, 13, 10, 0, 0.565, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kesa Van Osch, 23, 13, 10, 0, 0.565, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shinobu Aota, 26, 13, 13, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Janet McGhee, 27, 13, 14, 0, 0.481, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kerry Galusha, 29, 13, 16, 0, 0.448, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jolene Campbell, 29, 13, 16, 0, 0.448, N/A, N/A, N/A, N/A, N/A, N/A, 0.6, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Katja Kiiskinen, 20, 12, 8, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chantelle Eberle, 26, 12, 14, 0, 0.462, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jamie Sinclair, 29, 12, 17, 0, 0.414, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Desiree Owen, 31, 12, 19, 0, 0.387, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Delia DeJong, 38, 12, 26, 0, 0.316, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lisa DeRiviere, 17, 11, 6, 0, 0.647, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Miranda Solem, 21, 11, 10, 0, 0.524, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Heather Strong, 22, 11, 11, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Diana Gaspari, 31, 11, 20, 0, 0.355, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Corinne Bourquin, 40, 11, 29, 0, 0.275, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Gail Munro, 16, 10, 6, 0, 0.625, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kelsey Boettcher, 18, 10, 8, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sarah Fullerton, 18, 10, 8, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Hedvig Kamp, 20, 10, 10, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Madeleine Dupont, 20, 10, 10, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jen Rusnell, 22, 10, 12, 0, 0.455, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Satsuki Fujisawa, 24, 10, 14, 0, 0.417, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kelly Cochrane, 24, 10, 14, 0, 0.417, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tanilla Doyle, 25, 10, 15, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cory Christensen, 25, 10, 15, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kim Link, 27, 10, 17, 0, 0.370, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lauren Mann, 14, 9, 5, 0, 0.643, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kristy Russell, 16, 9, 7, 0, 0.563, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tiffany Game, 17, 9, 8, 0, 0.529, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tiffany Steuber, 17, 9, 8, 0, 0.529, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Elzbieta Ran, 12, 8, 4, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mary-Anne Arsenault, 13, 8, 5, 0, 0.615, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sara McManus, 13, 8, 5, 0, 0.615, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Gabriela Kajanova, 13, 8, 5, 0, 0.615, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Karen Rosser, 15, 8, 7, 0, 0.533, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Holly Baird, 17, 8, 9, 0, 0.471, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Trish Paulsen, 17, 8, 9, 0, 0.471, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jill Shumay, 17, 8, 9, 0, 0.471, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kim Dolan, 18, 8, 10, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brett Barber, 19, 8, 11, 0, 0.421, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ayumi Ogasawara, 19, 8, 11, 0, 0.421, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kimberly Mastine, 21, 8, 13, 0, 0.381, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Melanie Barbezat, 21, 8, 13, 0, 0.381, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Paulina Stein, 22, 8, 14, 0, 0.364, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Zuzana Hajkova, 12, 7, 5, 0, 0.583, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Emily Dwyer, 12, 7, 5, 0, 0.583, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Candace Chisholm, 13, 7, 6, 0, 0.538, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jenna Haag, 14, 7, 7, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sayaka Yoshimura, 14, 7, 7, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Liza Park, 16, 7, 9, 0, 0.438, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shana Snell, 16, 7, 9, 0, 0.438, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Susan McKnight, 17, 7, 10, 0, 0.412, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Roxane Perron, 17, 7, 10, 0, 0.412, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lisa Johnson, 17, 7, 10, 0, 0.412, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Heather Heggestad, 18, 7, 11, 0, 0.389, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sylvie Robichaud, 8, 6, 2, 0, 0.750, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mary Mattatall, 9, 6, 3, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Hannah Ely, 10, 6, 4, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kelly Backman, 12, 6, 6, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Stacie Curtis, 12, 6, 6, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kendra Lilly, 12, 6, 6, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kristen Streifel, 12, 6, 6, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Briane Meilleur, 14, 6, 8, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Karina Toth, 15, 6, 9, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shelly Kinney, 15, 6, 9, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Diane Foster, 16, 6, 10, 0, 0.375, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jaimee Gardner, 17, 6, 11, 0, 0.353, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Karen Sagle, 18, 6, 12, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jan Betker, 7, 5, 2, 0, 0.714, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Olga Zharkova, 8, 5, 3, 0, 0.625, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Vicky Persinger, 9, 5, 4, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Robyn Mattie, 9, 5, 4, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mary Jane McGuire, 9, 5, 4, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Colleen Pinkney, 9, 5, 4, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kristiine Lill, 10, 5, 5, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Liane Fossum, 10, 5, 5, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jennifer Armstrong, 12, 5, 7, 0, 0.417, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Allison Ross, 13, 5, 8, 0, 0.385, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brandi Tinkler, 13, 5, 8, 0, 0.385, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Karla Thompson, 13, 5, 8, 0, 0.385, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cheryl McBain, 14, 5, 9, 0, 0.357, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tracy Samaan, 14, 5, 9, 0, 0.357, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alison Goring, 14, 5, 9, 0, 0.357, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Laura Payne, 14, 5, 9, 0, 0.357, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brenda Doroshuk, 16, 5, 11, 0, 0.313, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Terry Ursel, 17, 5, 12, 0, 0.294, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Linn Githmark, 18, 5, 13, 0, 0.278, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Juliane Jacoby, 19, 5, 14, 0, 0.263, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sheri Pickering, 19, 5, 14, 0, 0.263, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kimberly Wapola, 19, 5, 14, 0, 0.263, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Patti Knezevic, 20, 5, 15, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Meaghan Hughes, 6, 4, 2, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sherrilee Orsted, 7, 4, 3, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Linda Stewart, 9, 4, 5, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Julie Hamel, 9, 4, 5, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Abigayle Lindgren, 9, 4, 5, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Camille Crottaz, 11, 4, 7, 0, 0.364, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sarah Koltun, 12, 4, 8, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ditte Karlsson, 12, 4, 8, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Victoria Makarshina, 12, 4, 8, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brandee Borne, 13, 4, 9, 0, 0.308, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Anna Kubeskova, 14, 4, 10, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Vanessa Pouliot, 14, 4, 10, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Penny Barker, 15, 4, 11, 0, 0.267, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+MinJung Kim, 4, 3, 1, 0, 0.750, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ling-Yue Hung, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Eve Belisle, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marilyn Bodogh, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Caitlin Romain, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Falon Burkitt, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Laura Phillips, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Margie Smith, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mitch Baker, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Deanna Doig, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jessica Ronalds, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kelsey Russill, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+EunJung Kim, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Melissa Adams, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Coralie Ayre, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kai Tsuchiya, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jackie Komyshyn, 8, 3, 5, 0, 0.375, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jennifer Dodds, 8, 3, 5, 0, 0.375, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Erika Sigurdson, 8, 3, 5, 0, 0.375, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Betty Buurma, 8, 3, 5, 0, 0.375, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Fiona Hawker, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Courtney Hodgson, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Katie Lindsay, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marie-Christine Cantin, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dale Curtis, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rachel Fritzler, 10, 3, 7, 0, 0.300, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Martina Strnadova, 11, 3, 8, 0, 0.273, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sian Canavan, 12, 3, 9, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Erica Trickett, 12, 3, 9, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kerry Clark, 13, 3, 10, 0, 0.231, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Janice Langanke, 13, 3, 10, 0, 0.231, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kristine Wedum Davanger, 13, 3, 10, 0, 0.231, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brigid Knowles, 14, 3, 11, 0, 0.214, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lisa Menard, 14, 3, 11, 0, 0.214, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Monika Mabergs, 15, 3, 12, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Morgan Muise, 15, 3, 12, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Oihane Otaegi, 18, 3, 15, 0, 0.167, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Melanie Wild, 19, 3, 16, 0, 0.158, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kirsti Kauste, 20, 3, 17, 0, 0.150, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lesley Pyne, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Heather Carr Olmstead, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ann Pearson, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shelly Houle, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jennifer Sande, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Katie Spencer, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cathy King, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Amanda Tucker, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tirzah Keffer, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Darlene Gillies, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nathalie Gagnon, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mandy Selzer, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Isabelle Maillard, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+LeeAnne Ursel, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shelley Hardy, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ramona Meier, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ashley Kallos, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Angie Melaney, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marin McLeod, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kathleen Trites, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+D'Arcy Maywood, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sandy Comeau, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jocelyn Nix, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sarah Murphy, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jill Andrews, 8, 2, 6, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Karlee Jones, 8, 2, 6, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Federica Apollonio, 9, 2, 7, 0, 0.222, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brooklyn Lemon, 9, 2, 7, 0, 0.222, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rachel Tharalson, 9, 2, 7, 0, 0.222, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kelly Thompson, 9, 2, 7, 0, 0.222, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kaitlin Stubbs, 9, 2, 7, 0, 0.222, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Amy Anderson, 9, 2, 7, 0, 0.222, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jennifer Harvey, 10, 2, 8, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cristin Clark, 11, 2, 9, 0, 0.182, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Leandra Mueller, 11, 2, 9, 0, 0.182, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Simone Groundwater, 12, 2, 10, 0, 0.167, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Taryn Williams, 12, 2, 10, 0, 0.167, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jennifer Martin, 13, 2, 11, 0, 0.154, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ineta Maca, 13, 2, 11, 0, 0.154, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ashley Waye, 21, 2, 19, 0, 0.095, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Deb McCreanor, -3, 1, -4, 0, -0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nicole Montgomery, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Karli Makichuk, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jennifer Wickenheiser, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Laura Gualtiero, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nicole Reiser, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Katie Morrissey, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Carolyn McRorie, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Suzanne Marcoux, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Christine McCrady, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Erin Macaulay, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Penny Shantz, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lynne Noble, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Helene Pelchat, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marianne Rorvik, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Debbie Folk, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mari Motohashi, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Beth Hamilton, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Iveta Stasa-Sarsune, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alex Williamson, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tammy Dewar, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Colleen Jones, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Donna Butler, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Evita Regza, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Susan Lang, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alyssa Kyllo, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Yue Sun, 7, 1, 6, 0, 0.143, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Desiree Borsato, 8, 1, 7, 0, 0.125, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Gina Aitken, 8, 1, 7, 0, 0.125, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nadine Lehmann, 8, 1, 7, 0, 0.125, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chana Martineau, 9, 1, 8, 0, 0.111, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Emily Walker, 9, 1, 8, 0, 0.111, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Carolyn Hibberd, 9, 1, 8, 0, 0.111, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shelby Sweet, 9, 1, 8, 0, 0.111, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Michelle Corbeil, 12, 1, 11, 0, 0.083, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sofia Gustafsson, 13, 1, 12, 0, 0.077, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Taru Oksanen, 20, 1, 19, 0, 0.050, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marie Christianson, 0, 0, 0, 0, ---, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Andrea Crawford, 0, 0, 0, 0, ---, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kathy O'Rourke, 0, 0, 0, 0, ---, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Amanda Tymchuk, 0, 0, 0, 0, ---, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Michelle DeBuck, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Glenys Bakker, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alyssa Calvert, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nola Zingel, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Maria Yanko, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alicia Wenger, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Meghan Armit, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Candace Read, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Erin Butler, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Megan St. Amand, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Pia Trulsen, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Delaine Payton, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Stephanie Prinse, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+LeAnne Andrews, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lorraine Schneider, 5, 0, 5, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nathalie Falt, 5, 0, 5, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marissa Messier, 5, 0, 5, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Yilun Jiang, 7, 0, 7, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lori Forbes, 7, 0, 7, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Laura Beever, 9, 0, 9, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Laura Forget, 9, 0, 9, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Michelle Montford, 10, -5, 15, 0, -0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 

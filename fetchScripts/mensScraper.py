@@ -5,10 +5,24 @@ import csv
 
 
 teamLinkList = []
-filePath = "Stats/Men/Season/2019-2020.csv"
+filePath = "Stats/Women/Season/2021-2022.csv"
+
+fetchList = {
+
+    # 'Stats/Men/Season/2023-2024.csv': 'https://www.curlingzone.com/teams.php?ey=2024&et=81',
+    # 'Stats/Men/Season/2022-2023.csv': 'https://www.curlingzone.com/teams.php?ey=2023&et=81',
+    # 'Stats/Men/Season/2021-2022.csv': 'https://www.curlingzone.com/teams.php?ey=2022&et=81',
+
+    'Stats/Women/Season/2023-2024.csv': 'https://www.curlingzone.com/teams.php?et=82&ey=2024',
+    'Stats/Women/Season/2022-2023.csv': 'https://www.curlingzone.com/teams.php?et=82&ey=2023',
+    'Stats/Women/Season/2021-2022.csv': 'https://www.curlingzone.com/teams.php?et=82&ey=2022',
+
+
+
+}   
 
 def fetchMensTeams():
-    url = "https://www.curlingzone.com/teams.php?ey=2020&et=81#1"
+    url = "https://www.curlingzone.com/teams.php?et=82&ey=2022"
     response = requests.get(url)
 
     if response.status_code == 200:
@@ -33,17 +47,17 @@ def fetchMensTeams():
 
     
 
-    fetchData()
+    fetchData(filePath)
 
 # TODO
 # Adjust all the things with records to be percentages instead
 #Adjust the order of stats
 
 
-def fetchData():
+def fetchData(filePath):
     f = open(filePath, 'w')
     
-    f.write("Team, GamesPlayed, Wins, Losses, Ties, PCT, HammerEfficiency, ExtraEndHammer, ExtraEndSteal, Ends, PointsFor, PointsAgainst, PointsFor/Game, PointsAgainst/Game, AvgDiff, HammerPF/E, HammerPA/E, NoHammerPF/E, NoHammerPA/E, EndsFor/Game, EndsAgainst/Game, PointsFor/End, PointsAgainst/End, BigEnds/Game, StealDefence, ForceEfficiency, StealEfficiency \n")   
+    f.write("Team, GamesPlayed, Wins, Losses, Ties, PCT, HammerEfficiency, StealDefence, StealEfficiency, ForceEfficiency, BlankEnds, BlankEnds/Game, ExtraEndHammer, ExtraEndSteal, Ends, PointsFor, PointsAgainst, PointsFor/Game, PointsAgainst/Game, AvgDiff, HammerPF/E, HammerPA/E, NoHammerPF/E, NoHammerPA/E, EndsFor/Game, EndsAgainst/Game, PointsFor/End, PointsAgainst/End \n")   
     noduplicatelist = list(dict.fromkeys(teamLinkList))
 
     for item in noduplicatelist:
@@ -85,6 +99,8 @@ def fetchData():
         pag = soup.find("td", attrs={"data-th": "PA/G"})
         fe = soup.find("td", attrs={"data-th": "FE"})
         se = soup.find("td", attrs={"data-th": "SE"})
+        BlankEnds = soup.find("td", attrs={"data-th": "BE"})
+
         
 
 
@@ -204,7 +220,8 @@ def fetchData():
 
 
 
-
+        if BlankEnds != None:
+            BlankEnds = soup.find("td", attrs={"data-th": "BE"}).get_text(strip=True)
         if ends != None:
             ends = soup.find("td", attrs={"data-th": "ENDs"}).get_text(strip=True)
 
@@ -255,15 +272,17 @@ def fetchData():
         else:
 
 
-            f.write(f"{teamName}, {gp}, {wins}, {losses}, {ties}, {pct}, {he}, {eeh}, {ees}, {ends}, {pf}, {pa}, {pfg}, {pag}, {avgDiff}, {HammerPFE}, {HammerPAE}, {StealPFE}, {StealPAE}, {efg}, {eag}, {pfe}, {pae}, {beg}, {sd}, {fe}, {se} \n")
+            f.write(f"{teamName}, {gp}, {wins}, {losses}, {ties}, {pct}, {he}, {sd}, {se}, {fe}, {BlankEnds}, {beg}, {eeh}, {ees}, {ends}, {pf}, {pa}, {pfg}, {pag}, {avgDiff}, {HammerPFE}, {HammerPAE}, {StealPFE}, {StealPAE}, {efg}, {eag}, {pfe}, {pae} \n")
 
-        print(teamName)
-
-
-
-        
+        # print(teamName)
 
 
+
+
+
+# for key, value in fetchList.items():
+#     fetchMensTeams(key, value)
+#     print(value, key)
 
 
 fetchMensTeams()

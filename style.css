@@ -32,6 +32,10 @@ th, td {
 
 th{
     font-weight: 400;
+    position:sticky;
+    top: 0;
+    background-color: #dfdede;
+    border: 1px black solid;
 }
 
 
@@ -82,7 +86,7 @@ article{
     border-radius: 10px;
     background-color: white;
     width: 90%;
-    margin: 10px auto auto auto;
+    margin: 10px auto 60px auto;
 }
 
 

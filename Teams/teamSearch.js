@@ -206,7 +206,7 @@ function buildPage(team) {
 
     }
 
-    fetch('/Stats/Women/Season/2023-2024.csv')
+    fetch('/Stats/Men/Season/2023-2024.csv')
         .then(response => response.text())
         .then(data => {
             const linesofHeader = data.split("\n");
@@ -241,29 +241,33 @@ function buildPage(team) {
 
                     const values = result.split(',');
                     values.splice(1, 1);
-                    if(values[6] != "N/A"){
+                    if(values[6] != "N/A" | values[6] != NaN){
 
                         values[6] = values[6] *= 100
+                        values[6] = parseFloat(values[6].toFixed(4))
             
-                        values[6]  =`${values[6]}%`
+                        values[6]  =`${values[6]}`
                     }
-                    if(values[24] != "N/A"){
+                    if(values[7] != "N/A"){
             
-                        values[24] = values[24] *= 100
+                        values[7] = values[7] *= 100
+                        values[7] = parseFloat(values[7].toFixed(4))
             
-                        values[24]  =`${values[24]}%`
+                        values[7]  =`${values[7]}`
                     }
-                    if(values[25] != "N/A"){
+                    if(values[8] != "N/A"){
             
-                        values[25] = values[25] *= 100
+                        values[8] = values[8] *= 100
+                        values[8] = parseFloat(values[8].toFixed(4))
             
-                        values[25]  =`${values[25]}%`
+                        values[8]  =`${values[8]}`
                     }
-                    if(values[26] != "N/A"){
+                    if(values[9] != "N/A"){
             
-                        values[26] = values[26] *= 100
+                        values[9] = values[9] *= 100
+                        values[9] = parseFloat(values[9].toFixed(4))
             
-                        values[26]  =`${values[26]}%`
+                        values[9]  =`${values[9]}`
                     }
                     const row = document.createElement('tr');
                     values.forEach(value => {
@@ -453,8 +457,8 @@ function calculateAllTime(results, timesRan){
         allTimeLosses,
         allTimeTies,
         allTimePCT,
-        allTimeEEH,
-        allTimeEES,
+        // allTimeEEH,
+        // allTimeEES,
 
 
     ]
@@ -499,7 +503,7 @@ function calculateAllTime(results, timesRan){
     .then(response => response.text())
     .then(data =>{
         const linesofHeader = data.split("\n")
-        const firstLine = " ,Games, Wins, Losses, Ties, PCT, ExtraEndHammer, ExtraEndSteal"; 
+        const firstLine = " ,Games, Wins, Losses, Ties, PCT"; 
         const headerValues = firstLine.split(",")
         headerValues[0] = ""
         headerValues.forEach(headerValue => {
@@ -518,8 +522,18 @@ function calculateAllTime(results, timesRan){
         array.forEach(stat => {
             // Create a new table row
             // console.log(value)
-            const cell = document.createElement('td');
+            let cell = document.createElement('td');
+            if(typeof stat === 'number'){
+                stat = stat.toFixed(3)
+                console.log(stat)
+            }
+            toString(stat)
+             if (stat.endsWith('.000')){
+                stat = stat.slice(0,-4)
+            }
             cell.textContent = stat // Trim any extra spaces
+            // cell[6] = parseFloat(cell[6].toFixed(4))
+
             row.appendChild(cell);
             
         });

@@ -57,26 +57,31 @@ function csvToTable(csv) {
         if(cells[6] != "N/A"){
 
             cells[6] = cells[6] *= 100
-
-            cells[6]  =`${cells[6]}%`
+            cells[6] = parseFloat(cells[6].toFixed(4))
+            cells[6]  =`${cells[6]}`
         }
-        if(cells[24] != "N/A"){
+        if(cells[7] != "N/A"){
 
-            cells[24] = cells[24] *= 100
+            cells[7] = cells[7] *= 100
+            cells[7] = parseFloat(cells[7].toFixed(4))
 
-            cells[24]  =`${cells[24]}%`
+            cells[7]  =`${cells[7]}`
         }
-        if(cells[25] != "N/A"){
+        if(cells[8] != "N/A"){
 
-            cells[25] = cells[25] *= 100
+            cells[8] = cells[8] *= 100
+            cells[8] = parseFloat(cells[8].toFixed(4))
 
-            cells[25]  =`${cells[25]}%`
+
+            cells[8]  =`${cells[8]}`
         }
-        if(cells[26] != "N/A"){
+        if(cells[9] != "N/A"){
 
-            cells[26] = cells[26] *= 100
+            cells[9] = cells[9] *= 100
+            cells[9] = parseFloat(cells[9].toFixed(4))
 
-            cells[26]  =`${cells[26]}%`
+
+            cells[9]  =`${cells[9]}`
         }
         cells.forEach(cell => {
             const td = document.createElement('td');

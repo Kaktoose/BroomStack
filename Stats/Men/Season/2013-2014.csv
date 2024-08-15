@@ -1,577 +1,577 @@
-Team, GamesPlayed, Wins, Losses, Ties, PCT, HammerEfficiency, ExtraEndHammer, ExtraEndSteal, Ends, PointsFor, PointsAgainst, PointsFor/Game, PointsAgainst/Game, AvgDiff, HammerPF/E, HammerPA/E, NoHammerPF/E, NoHammerPA/E, EndsFor/Game, EndsAgainst/Game, PointsFor/End, PointsAgainst/End, BigEnds/Game, StealDefence, ForceEfficiency, StealEfficiency 
-Kevin Koe, 104, 72, 32, 0, 0.692, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sven Michel, 113, 68, 45, 0, 0.602, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brad Jacobs, 83, 65, 18, 0, 0.783, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Thomas Ulsrud, 90, 65, 25, 0, 0.722, N/A, 1.0, 0.14285714285714285, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rui Liu, 97, 65, 32, 0, 0.670, N/A, 0.4, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Oskar Eriksson, 96, 64, 32, 0, 0.667, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brad Gushue, 90, 63, 27, 0, 0.700, N/A, 0.8, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jeff Stoughton, 87, 62, 25, 0, 0.713, N/A, 0.8, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike McEwen, 78, 61, 17, 0, 0.782, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kevin Martin, 75, 57, 18, 0, 0.760, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Niklas Edin, 91, 51, 40, 0, 0.560, N/A, 1.0, 0.2, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-John Shuster, 81, 49, 32, 0, 0.605, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Glenn Howard, 70, 47, 23, 0, 0.671, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Peter De Cruz, 78, 46, 32, 0, 0.590, N/A, 0.8, 0.25, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-David Murdoch, 80, 45, 35, 0, 0.563, N/A, 0.75, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brady Clark, 81, 45, 36, 0, 0.556, N/A, 0.75, 0.25, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Yusuke Morozumi, 78, 44, 34, 0, 0.564, N/A, 1.0, 0.25, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Pascal Hess, 74, 43, 31, 0, 0.581, N/A, 0.6666666666666666, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Craig Brown, 55, 42, 13, 0, 0.764, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Logan Gray, 60, 41, 19, 0, 0.683, N/A, 1.0, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-John Morris, 61, 41, 20, 0, 0.672, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Kean, 75, 41, 34, 0, 0.547, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Johnny Jahr, 70, 40, 30, 0, 0.571, N/A, 0.75, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Steve Laycock, 73, 40, 33, 0, 0.548, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Greg Balsdon, 61, 39, 22, 0, 0.639, N/A, 0.6666666666666666, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jean-Michel Menard, 63, 39, 24, 0, 0.619, N/A, 1.0, 0.2, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brendan Bottcher, 71, 39, 32, 0, 0.549, N/A, 1.0, 0.2, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Pete Fenson, 75, 39, 36, 0, 0.520, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rasmus Stjerne, 69, 36, 33, 0, 0.522, N/A, 1.0, 0.4, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rob Rumfeldt, 56, 35, 21, 0, 0.625, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brock Virtue, 59, 35, 24, 0, 0.593, N/A, 0.75, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-James Grattan, 45, 33, 12, 0, 0.733, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Robert Schlender, 59, 33, 26, 0, 0.559, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jeff Currie, 50, 31, 19, 0, 0.620, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tom Appelman, 52, 31, 21, 0, 0.596, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Matthew Blandford, 49, 30, 19, 0, 0.612, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kyle Smith, 51, 30, 21, 0, 0.588, N/A, 1.0, 0.4, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Heath McCormick, 55, 30, 25, 0, 0.545, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-John Epping, 58, 30, 28, 0, 0.517, N/A, 0.6666666666666666, 0.2, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott McDonald, 42, 29, 13, 0, 0.690, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jake Walker, 51, 29, 22, 0, 0.569, N/A, 0.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Ramsay, 41, 28, 13, 0, 0.683, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bryan Cochrane, 46, 28, 18, 0, 0.609, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tyler George, 51, 28, 23, 0, 0.549, N/A, 0.6666666666666666, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Markus Hoiberg, 55, 28, 27, 0, 0.509, N/A, 0.75, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Soo-Hyuk Kim, 56, 28, 28, 0, 0.500, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Josh Heidt, 50, 27, 23, 0, 0.540, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Joe Frans, 51, 27, 24, 0, 0.529, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chad Stevens, 40, 26, 14, 0, 0.650, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Bitz, 40, 26, 14, 0, 0.650, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jeff Richard, 37, 25, 12, 0, 0.676, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wayne Tuck Jr., 43, 25, 18, 0, 0.581, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bruce Korte, 44, 25, 19, 0, 0.568, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rob Fowler, 49, 25, 24, 0, 0.510, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mario Freiberger, 51, 25, 26, 0, 0.490, N/A, 1.0, 0.25, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jake Higgs, 52, 25, 27, 0, 0.481, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jamie Murphy, 52, 25, 27, 0, 0.481, N/A, 0.5, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Steen Sigurdson, 40, 24, 16, 0, 0.600, N/A, 0.75, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-David Kraichy, 41, 24, 17, 0, 0.585, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bernhard Werthemann, 46, 24, 22, 0, 0.522, N/A, 0.75, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Dacey, 47, 24, 23, 0, 0.511, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Andrey Drozdov, 63, 24, 39, 0, 0.381, N/A, 1.0, 0.4, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nick Rizzo, 36, 23, 13, 0, 0.639, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jeff Hartung, 38, 23, 15, 0, 0.605, N/A, 0.5, 0.2, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Craig Van Ymeren, 40, 23, 17, 0, 0.575, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Pat Ferris, 40, 23, 17, 0, 0.575, N/A, 0.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-William Lyburn, 44, 23, 21, 0, 0.523, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Don Bowser, 35, 22, 13, 0, 0.629, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Grant Hardie, 37, 22, 15, 0, 0.595, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Eric Fenson, 44, 22, 22, 0, 0.500, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Grant Dezura, 33, 21, 12, 0, 0.636, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brent Pierce, 35, 21, 14, 0, 0.600, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Todd Birr, 36, 21, 15, 0, 0.583, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rob Retchless, 36, 21, 15, 0, 0.583, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Peter De Boer, 42, 21, 21, 0, 0.500, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Richard Daneault, 44, 21, 23, 0, 0.477, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Joel Jordison, 45, 21, 24, 0, 0.467, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sean Grassie, 34, 20, 14, 0, 0.588, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chang-Min Kim, 37, 20, 17, 0, 0.541, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Manners, 38, 20, 18, 0, 0.526, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ted Appelman, 32, 19, 13, 0, 0.594, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Charley Thomas, 33, 19, 14, 0, 0.576, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jared Kolomaya, 38, 19, 19, 0, 0.500, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wade White, 38, 19, 19, 0, 0.500, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Martin Ferland, 23, 18, 5, 0, 0.783, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-David Edwards, 26, 18, 8, 0, 0.692, N/A, 0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bryan Burgess, 27, 18, 9, 0, 0.667, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marc LeCocq, 27, 18, 9, 0, 0.667, N/A, 0.6666666666666666, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Amos Mosaner, 27, 18, 9, 0, 0.667, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kelly Marnoch, 28, 18, 10, 0, 0.643, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Randy Bryden, 30, 18, 12, 0, 0.600, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Philippe Lemay, 33, 18, 15, 0, 0.545, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike Anderson, 34, 18, 16, 0, 0.529, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Richard Muntain, 35, 18, 17, 0, 0.514, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Korey Dropkin, 36, 18, 18, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jiri Snitil, 42, 18, 24, 0, 0.429, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike Jakubo, 24, 17, 7, 0, 0.708, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brian Adams Jr., 26, 17, 9, 0, 0.654, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dean Joanisse, 27, 17, 10, 0, 0.630, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ewan MacDonald, 28, 17, 11, 0, 0.607, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ian Fitzner-Leblanc, 31, 17, 14, 0, 0.548, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Darryl Prebble, 31, 17, 14, 0, 0.548, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Peter Burgess, 32, 17, 15, 0, 0.531, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lloyd Hill, 32, 17, 15, 0, 0.531, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Peter Stolt, 35, 17, 18, 0, 0.486, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Josh Johnston, 35, 17, 18, 0, 0.486, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Trevor Bonot, 36, 17, 19, 0, 0.472, N/A, 0.3333333333333333, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marc Pfister, 41, 17, 24, 0, 0.415, N/A, 0.3333333333333333, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Braden Calvert, 22, 16, 6, 0, 0.727, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Johnson, 22, 16, 6, 0, 0.727, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Thomas Scoffin, 23, 16, 7, 0, 0.696, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-TJ Perepolkin, 26, 16, 10, 0, 0.615, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Kehoe, 27, 16, 11, 0, 0.593, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jamie King, 28, 16, 12, 0, 0.571, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sean O'Connor, 30, 16, 14, 0, 0.533, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Steve Irwin, 23, 15, 8, 0, 0.652, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tommy Sullivan, 27, 15, 12, 0, 0.556, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Aaron Squires, 28, 15, 13, 0, 0.536, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chris Ciasnocha, 31, 15, 16, 0, 0.484, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Eirik Mjoen, 20, 14, 6, 0, 0.700, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Michael Fournier, 26, 14, 12, 0, 0.538, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tom Sallows, 28, 14, 14, 0, 0.500, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kevin Flewwelling, 28, 14, 14, 0, 0.500, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Andrew Bilesky, 29, 14, 15, 0, 0.483, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alex Leichter, 34, 14, 20, 0, 0.412, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Peter Corner, 19, 13, 6, 0, 0.684, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kevin Marsh, 21, 13, 8, 0, 0.619, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bert Martin, 23, 13, 10, 0, 0.565, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kevin Saccary, 23, 13, 10, 0, 0.565, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Roy Arndt, 23, 13, 10, 0, 0.565, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dean Mamer, 25, 13, 12, 0, 0.520, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jamie Koe, 26, 13, 13, 0, 0.500, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ken McArdle, 26, 13, 13, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jake Vukich, 29, 13, 16, 0, 0.448, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tomi Rantamaki, 31, 13, 18, 0, 0.419, N/A, 0.5, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Robbie Gordon, 18, 12, 6, 0, 0.667, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lee Buott, 19, 12, 7, 0, 0.632, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Richard Krell, 20, 12, 8, 0, 0.600, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dustin Eckstrand, 21, 12, 9, 0, 0.571, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ethan Meyers, 23, 12, 11, 0, 0.522, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-David Sik, 25, 12, 13, 0, 0.480, N/A, 0.6666666666666666, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alexander Attinger, 26, 12, 14, 0, 0.462, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Craig Kochan, 26, 12, 14, 0, 0.462, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Eddie MacKenzie, 34, 12, 22, 0, 0.353, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Robert Desjardins, 37, 12, 25, 0, 0.324, N/A, 0.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Daylan Vavrek, 15, 11, 4, 0, 0.733, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jason Montgomery, 16, 11, 5, 0, 0.688, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Max Kirkpatrick, 17, 11, 6, 0, 0.647, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Gabor Ezsol, 19, 11, 8, 0, 0.579, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Doug MacKenzie, 22, 11, 11, 0, 0.500, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rob Lobel, 22, 11, 11, 0, 0.500, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dennis Bohn, 23, 11, 12, 0, 0.478, N/A, 0.5, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike Aprile, 26, 11, 15, 0, 0.423, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brent MacDougall, 29, 11, 18, 0, 0.379, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Yannick Schwaller, 13, 10, 3, 0, 0.769, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Peter Mellor, 15, 10, 5, 0, 0.667, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tom Worth, 18, 10, 8, 0, 0.556, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike Farbelow, 18, 10, 8, 0, 0.556, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-John Luckhurst, 19, 10, 9, 0, 0.526, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Webb, 20, 10, 10, 0, 0.500, N/A, 0.6666666666666666, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jaap van Dorp, 24, 10, 14, 0, 0.417, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kevin Park, 25, 10, 15, 0, 0.400, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Aku Kauste, 26, 10, 16, 0, 0.385, N/A, 0.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ryan Myler, 29, 10, 19, 0, 0.345, N/A, 0.3333333333333333, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mikkel Krause, 17, 9, 8, 0, 0.529, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ryan Lemke, 17, 9, 8, 0, 0.529, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brent Gedak, 18, 9, 9, 0, 0.500, N/A, 0.75, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Josh Lambden, 18, 9, 9, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-John Lilla, 18, 9, 9, 0, 0.500, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Paul Flemming, 18, 9, 9, 0, 0.500, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Torkil Svensgaard, 19, 9, 10, 0, 0.474, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Francois Gagne, 19, 9, 10, 0, 0.474, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Justin Richter, 19, 9, 10, 0, 0.474, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jason Jacobson, 27, 9, 18, 0, 0.333, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-De Jia Zou, 28, 9, 19, 0, 0.321, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rene Comeau, 12, 8, 4, 0, 0.667, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Howard Rajala, 12, 8, 4, 0, 0.667, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bob Genoway, 12, 8, 4, 0, 0.667, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dylan Johnston, 13, 8, 5, 0, 0.615, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jamie Newson, 16, 8, 8, 0, 0.500, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Dunnam, 16, 8, 8, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Homan, 16, 8, 8, 0, 0.500, N/A, 0.6666666666666666, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alexander Baumann, 17, 8, 9, 0, 0.471, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shane Park, 18, 8, 10, 0, 0.444, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Evgeniy Arkhipov, 18, 8, 10, 0, 0.444, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chris Baier, 18, 8, 10, 0, 0.444, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cory Heggestad, 18, 8, 10, 0, 0.444, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Terry Marteniuk, 19, 8, 11, 0, 0.421, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Konstantin Kampf, 19, 8, 11, 0, 0.421, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Thomas Dufour, 20, 8, 12, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brad Heidt, 21, 8, 13, 0, 0.381, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ryan Berg, 22, 8, 14, 0, 0.364, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ritvars Gulbis, 29, 8, 21, 0, 0.276, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dean Ross, 30, 8, 22, 0, 0.267, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kerry Moore, 11, 7, 4, 0, 0.636, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Carter Lautner, 11, 7, 4, 0, 0.636, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brian Lewis, 13, 7, 6, 0, 0.538, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Colin Thomas, 13, 7, 6, 0, 0.538, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Darren Camm, 14, 7, 7, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Steeve Gagnon, 14, 7, 7, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nathan Martin, 15, 7, 8, 0, 0.467, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alan O'Leary, 15, 7, 8, 0, 0.467, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-John Hamilton, 15, 7, 8, 0, 0.467, N/A, 0.3333333333333333, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dan Lemieux, 16, 7, 9, 0, 0.438, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dennis Moretto, 16, 7, 9, 0, 0.438, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brandon Tippin, 16, 7, 9, 0, 0.438, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ian MacAulay, 17, 7, 10, 0, 0.412, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike Armstrong, 17, 7, 10, 0, 0.412, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Stefan Haesler, 18, 7, 11, 0, 0.389, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-John Stroh, 18, 7, 11, 0, 0.389, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brent Yamada, 19, 7, 12, 0, 0.368, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Terry Corbin, 20, 7, 13, 0, 0.350, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike Wenger, 7, 6, 1, 0, 0.857, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Joey Rettinger, 8, 6, 2, 0, 0.750, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Martin Lill, 9, 6, 3, 0, 0.667, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Trevor Loreth, 9, 6, 3, 0, 0.667, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ryan McCrady, 10, 6, 4, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tyler Hartung, 10, 6, 4, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Robert Mayhew, 10, 6, 4, 0, 0.600, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike Hutchings, 11, 6, 5, 0, 0.545, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Darrell McKee, 11, 6, 5, 0, 0.545, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brent Scales, 11, 6, 5, 0, 0.545, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Warwick Smith, 11, 6, 5, 0, 0.545, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Neil Dangerfield, 11, 6, 5, 0, 0.545, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bo Jensen, 11, 6, 5, 0, 0.545, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bill Irwin, 12, 6, 6, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Steven Andrews, 12, 6, 6, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Paul Pustovar, 13, 6, 7, 0, 0.462, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Randy Woytowich, 14, 6, 8, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Fredrik Nyman, 14, 6, 8, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lee McCleary, 15, 6, 9, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shea Steele, 15, 6, 9, 0, 0.400, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shannon Beddows, 15, 6, 9, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Michael Shepherd, 17, 6, 11, 0, 0.353, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kyle Foster, 18, 6, 12, 0, 0.333, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Fengchun Wang, 19, 6, 13, 0, 0.316, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Randie Shen, 22, 6, 16, 0, 0.273, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dale Gibbs, 30, 6, 24, 0, 0.200, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Daryl Shane, 5, 5, 0, 0, 1.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Phil Daniel, 6, 5, 1, 0, 0.833, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-James Kirkness, 7, 5, 2, 0, 0.714, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alan Macdougall, 8, 5, 3, 0, 0.625, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Stig Hoiberg, 8, 5, 3, 0, 0.625, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dale Kelly, 8, 5, 3, 0, 0.625, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Willie MacPherson, 8, 5, 3, 0, 0.625, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jakub Glowania, 8, 5, 3, 0, 0.625, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Daniel Dudt, 9, 5, 4, 0, 0.556, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jeff Clark, 9, 5, 4, 0, 0.556, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brandon Scheel, 9, 5, 4, 0, 0.556, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Joe Wallingham, 9, 5, 4, 0, 0.556, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike Libbus, 10, 5, 5, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cameron de Jong, 10, 5, 5, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Simon Ouellet, 10, 5, 5, 0, 0.500, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ben Mikkelsen, 10, 5, 5, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tanner Horgan, 10, 5, 5, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Greg  Keith, 10, 5, 5, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Justin Mihalicz, 10, 5, 5, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Neil Gerrish, 10, 5, 5, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bowie Abbis-Mills, 11, 5, 6, 0, 0.455, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ross McCleary, 11, 5, 6, 0, 0.455, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Pillsworth, 11, 5, 6, 0, 0.455, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shawn Joyce, 11, 5, 6, 0, 0.455, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dale Matchett, 12, 5, 7, 0, 0.417, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Artur Ali, 13, 5, 8, 0, 0.385, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Roman Ruch, 14, 5, 9, 0, 0.357, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kent Smith, 14, 5, 9, 0, 0.357, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Denis Robichaud, 14, 5, 9, 0, 0.357, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Justin Stanus, 15, 5, 10, 0, 0.333, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-John Young Jr., 16, 5, 11, 0, 0.313, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Anthony Purcell, 17, 5, 12, 0, 0.294, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kent Beadle, 18, 5, 13, 0, 0.278, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Fraser Hare, 6, 4, 2, 0, 0.667, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bob Turcotte, 6, 4, 2, 0, 0.667, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Robert Campbell, 6, 4, 2, 0, 0.667, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Neal Watkins, 7, 4, 3, 0, 0.571, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Trent Skanes, 7, 4, 3, 0, 0.571, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tom Buchy, 7, 4, 3, 0, 0.571, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jamie Schneider, 7, 4, 3, 0, 0.571, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ken Leach, 7, 4, 3, 0, 0.571, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Adrian Meikle, 7, 4, 3, 0, 0.571, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-James Pahl, 7, 4, 3, 0, 0.571, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shane Longley, 8, 4, 4, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Al Hutchinson, 8, 4, 4, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tom Slumskie, 8, 4, 4, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dale Fellows, 8, 4, 4, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jerry Chudley, 8, 4, 4, 0, 0.500, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dave Manser, 9, 4, 5, 0, 0.444, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wesley Pedersen, 9, 4, 5, 0, 0.444, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shinya Abe, 9, 4, 5, 0, 0.444, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-David Smith, 9, 4, 5, 0, 0.444, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chris De Cloet, 9, 4, 5, 0, 0.444, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rod MacDonald, 9, 4, 5, 0, 0.444, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marcus Hasselborg, 9, 4, 5, 0, 0.444, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kyle Doering, 10, 4, 6, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Graham Shaw, 10, 4, 6, 0, 0.400, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-William Coutts, 10, 4, 6, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wayne Ewasko, 11, 4, 7, 0, 0.364, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Greg Richardson, 12, 4, 8, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lyle Kent, 13, 4, 9, 0, 0.308, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Steven Birklid, 14, 4, 10, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chad Dahlseide, 14, 4, 10, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nolan Reid, 14, 4, 10, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rob Maksymetz, 15, 4, 11, 0, 0.267, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Matt Paul, 16, 4, 12, 0, 0.250, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Moray Combe, 17, 4, 13, 0, 0.235, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Hugh Millikin, 20, 4, 16, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rayad Husain, 21, 4, 17, 0, 0.190, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Madams, 3, 3, 0, 0, 1.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wyllie Allan, 4, 3, 1, 0, 0.750, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Fraser Reid, 4, 3, 1, 0, 0.750, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mel Steffin, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Daniel Herberg, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cam Culp, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Doug Kauffman, 5, 3, 2, 0, 0.600, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Matt Stevens, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cory Zdan, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alexander Stocker, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Benoit Gagne, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Danny Sherrard, 5, 3, 2, 0, 0.600, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tracy Steinke, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dave Fischer, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Randy Neufeld, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shawn Broda, 6, 3, 3, 0, 0.500, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Pat Paslawski, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bryan Rindal, 6, 3, 3, 0, 0.500, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kevin Aberle, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rick Phillips, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jim Bell, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Blair Jay, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Todd Brandwood, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Steve Meunier, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Owen Sampson, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Claude Lapointe, 6, 3, 3, 0, 0.500, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Patrick Gelinas, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Vince Huffman, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ken Peddigrew, 6, 3, 3, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alican Karatas, 7, 3, 4, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Terry Odishaw, 7, 3, 4, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mikael Qvist, 7, 3, 4, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Shaun Mott, 7, 3, 4, 0, 0.429, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Paul Dobson, 7, 3, 4, 0, 0.429, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-AJ Schumacher, 8, 3, 5, 0, 0.375, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jeff Brown, 8, 3, 5, 0, 0.375, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jason Malcho, 8, 3, 5, 0, 0.375, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rick Thurston, 8, 3, 5, 0, 0.375, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lukas Klima, 9, 3, 6, 0, 0.333, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Daniel Plys, 9, 3, 6, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Saunders, 9, 3, 6, 0, 0.333, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Adam Freilich, 9, 3, 6, 0, 0.333, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kyle Holland, 9, 3, 6, 0, 0.333, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sebastian Wunderer, 9, 3, 6, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lyle Sieg, 9, 3, 6, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brad Frazer, 9, 3, 6, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Stephen Trickett, 9, 3, 6, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Andrew Thompson, 9, 3, 6, 0, 0.333, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Andrew Symonds, 10, 3, 7, 0, 0.300, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Geoff Trimble, 11, 3, 8, 0, 0.273, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wade Scoffin, 11, 3, 8, 0, 0.273, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wayne Tallon, 11, 3, 8, 0, 0.273, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Markus Forejtek, 11, 3, 8, 0, 0.273, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Zack Eldridge, 11, 3, 8, 0, 0.273, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Stephen Dropkin, 14, 3, 11, 0, 0.214, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Curtis Harrish, 14, 3, 11, 0, 0.214, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Matt Willerton, 15, 3, 12, 0, 0.200, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jason March, 3, 2, 1, 0, 0.667, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brian Glover, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nicholas Connolly, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Peter Van Ymeren, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Daniel Caron, 4, 2, 2, 0, 0.500, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Gary Weiss, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dave Fischer, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Todd Jones, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Graham Freeman, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Michael Hauser, 4, 2, 2, 0, 0.500, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kevin Fleming, 4, 2, 2, 0, 0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Corey Martens, 5, 2, 3, 0, 0.400, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Glen Toews, 5, 2, 3, 0, 0.400, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Randy Guidinger, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Colin Griffith, 5, 2, 3, 0, 0.400, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ross Simmons, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cory Ward, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott DeCap, 5, 2, 3, 0, 0.400, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Craig Ireland, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Gary Rowe, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Robert Collins, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Babin, 5, 2, 3, 0, 0.400, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tyler Harris, 5, 2, 3, 0, 0.400, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-John Cummine, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bill Hope, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wade Sydorko, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Catlin Schneider, 5, 2, 3, 0, 0.400, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kenton Maschmeyer, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Walter, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Blair Weeks, 5, 2, 3, 0, 0.400, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chris Glibota, 5, 2, 3, 0, 0.400, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bruce Mouat, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lloyd Fell, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Graham Powell, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Glenn Evans, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Derrick Casper, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bryan Hill, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wes Craig, 5, 2, 3, 0, 0.400, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wes Wiwcharuk, 5, 2, 3, 0, 0.400, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Juraj Gallo, 6, 2, 4, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Makoto Tsuruga, 6, 2, 4, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bob Armstrong, 6, 2, 4, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Josh Burns, 6, 2, 4, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tommy Stjerne, 6, 2, 4, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alen Cadez, 7, 2, 5, 0, 0.286, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marc Suter, 7, 2, 5, 0, 0.286, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ray Balachorek, 7, 2, 5, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Darko Reischek, 7, 2, 5, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kevin Brown, 7, 2, 5, 0, 0.286, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wade Walsh, 8, 2, 6, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Spencer Cooper, 8, 2, 6, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Gustav Eskilsson, 8, 2, 6, 0, 0.250, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-John Bell, 8, 2, 6, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tadas Vyskupaitis, 8, 2, 6, 0, 0.250, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alexander Dyer, 8, 2, 6, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Clay Osterhaus, 9, 2, 7, 0, 0.222, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Matthew Miller, 9, 2, 7, 0, 0.222, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mikel Unanue, 10, 2, 8, 0, 0.200, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brian Ness, 11, 2, 9, 0, 0.182, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Sam Galey, 12, 2, 10, 0, 0.167, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ryan Hyde, 13, 2, 11, 0, 0.154, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Christian Moser, 14, 2, 12, 0, 0.143, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Pavel Kocian, 16, 2, 14, 0, 0.125, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Warren Cross, 17, 2, 15, 0, 0.118, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Joel Moore, -5, 1, -6, 0, -0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Gary Downs, 0, 1, -1, 0, ---, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Silvano Pesavento, 3, 1, 2, 0, 0.333, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kelly Robertson, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bob Sigurdson, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dave Cobean, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Craig Milburn, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Greg Todoruk, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Oliver Campbell, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ondrej Hurtik, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Doug Hamilton, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jim Brackett, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Randy Dutiaume, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Guy Racette, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Doug Hamblin, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Fritz Oswald, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Trevor Feil, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nathan Grudnizki, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Michal Vojtus, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Damien Villard, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dale Fanset, 3, 1, 2, 0, 0.333, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rob Harris, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Matt Yeo, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brett Vavrek, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rick Law, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Stephen Schneider, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tyler Runing, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jay Young, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Robin Brydone, 4, 1, 3, 0, 0.250, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Thomas Stroh, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Matthew Smith, 4, 1, 3, 0, 0.250, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Blair Fraser, 4, 1, 3, 0, 0.250, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rasmus Wrana, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Smith, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Trevor Ylioja, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Zahacy, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Albert Gerdung, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Reagan Hadden, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Michael Roy, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Gord Bell, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lionel Locke, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rod Quintin, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Denis Lachance, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kieran Scott, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brad Bibby, 4, 1, 3, 0, 0.250, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-George Hall, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dave Stewart, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tom Scott, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jessi Wilkinson, 4, 1, 3, 0, 0.250, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tyler Tardi, 4, 1, 3, 0, 0.250, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jack McDonald, 4, 1, 3, 0, 0.250, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dustin Turcotte, 5, 1, 4, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Geoff Goodland, 5, 1, 4, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ted White, 5, 1, 4, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Magnus Ramsfjell, 5, 1, 4, 0, 0.200, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Guy Hemmings, 5, 1, 4, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Wayne Sangster, 5, 1, 4, 0, 0.200, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jason Ginter, 5, 1, 4, 0, 0.200, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Greg Skauge, 6, 1, 5, 0, 0.167, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Paul Madgett, 6, 1, 5, 0, 0.167, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Doug Brewer, 6, 1, 5, 0, 0.167, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike Fraboni, 6, 1, 5, 0, 0.167, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bent Kristoffersen, 6, 1, 5, 0, 0.167, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brody Hanson, 7, 1, 6, 0, 0.143, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Richard Brower, 7, 1, 6, 0, 0.143, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Longworth, 7, 1, 6, 0, 0.143, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Allen Coliban, 7, 1, 6, 0, 0.143, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jamie Chisholm, 7, 1, 6, 0, 0.143, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ulrik Damm, 7, 1, 6, 0, 0.143, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Timothy Verreycken, 8, 1, 7, 0, 0.125, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Andre Neuenschwander, 9, 1, 8, 0, 0.111, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Joffrey Vincent, 9, 1, 8, 0, 0.111, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alexandre Ferland, 9, 1, 8, 0, 0.111, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ally Fraser, 9, 1, 8, 0, 0.111, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Willmert, 14, 1, 13, 0, 0.071, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Serge Reid, 15, 1, 14, 0, 0.067, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-DJ Ronaldson, 0, 0, 0, 0, ---, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jim Lyle, 0, 0, 0, 0, ---, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rob Atkins, 1, 0, 1, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Glen Parrott, 2, 0, 2, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Banner, 2, 0, 2, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dave Collyer, 2, 0, 2, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Axel Larsen, 2, 0, 2, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Grant Brown, 2, 0, 2, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dave Johnson, 2, 0, 2, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mark Lukowich, 2, 0, 2, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Peter Gilbert, 2, 0, 2, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Don Nelson, 2, 0, 2, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Dennis Shupe, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Graham Shedden, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Doug Phelps, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Darrel Veiner, 3, 0, 3, 0, 0.000, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bill Dauphinais, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Chris McTavish, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Robin Shillington, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bill Cameron, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Vic Rocque, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Cliff Kostiuk, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Steve Frankland, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tyler Waterhouse, 3, 0, 3, 0, 0.000, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Harrison Boss, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Terry Bushell, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Donald Clarey, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bob Armstrong, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Trevor Funk, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Adam Bolen, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brent Palmer, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jim Yurchevich, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lyle Brown, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Len Brossart, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kevin Kakela, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Simon Dupuis, 3, 0, 3, 0, 0.000, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Les Steuber, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lionel Holm, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tony Moore, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Gord Thompson, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Christian Crete, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jonathan Doan, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kyle Stevenson, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brian Smith, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bernhard Lips, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Pat Chartier, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Bob Ingram, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kevin Yablonski, 3, 0, 3, 0, 0.000, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Lee Hodgson, 3, 0, 3, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Brian Gabrio, 4, 0, 4, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alexey Tselousov, 4, 0, 4, 0, 0.000, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Ben Bevan, 4, 0, 4, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-David Misun, 4, 0, 4, 0, 0.000, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Nicolas Marceau, 4, 0, 4, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Andy Borland, 4, 0, 4, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Simone Gonin, 4, 0, 4, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jonas Waechli, 4, 0, 4, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Rick Rowsell, 5, 0, 5, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Tom Sorlundsengen, 5, 0, 5, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Blair Hedden, 5, 0, 5, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Marc Muskatewitz, 6, 0, 6, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Mike Assad, 6, 0, 6, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Kris Blonski, 6, 0, 6, 0, 0.000, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Peter Nielsen, 7, 0, 7, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Scott Ballantyne, 8, 0, 8, 0, 0.000, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Adam Prosser, 8, 0, 8, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Jamie Airut, 9, 0, 9, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Alhrik Schommer, 9, 0, 9, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Zhilin Shao, 9, 0, 9, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Maciej Cesarz, 9, 0, 9, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Hans Frauenlob, 10, 0, 10, 0, 0.000, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
-Don Beaton, 2, -1, 3, 0, -0.500, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 
+Team, GamesPlayed, Wins, Losses, Ties, PCT, HammerEfficiency, StealDefence, StealEfficiency, ForceEfficiency, BlankEnds, BlankEnds/Game, ExtraEndHammer, ExtraEndSteal, Ends, PointsFor, PointsAgainst, PointsFor/Game, PointsAgainst/Game, AvgDiff, HammerPF/E, HammerPA/E, NoHammerPF/E, NoHammerPA/E, EndsFor/Game, EndsAgainst/Game, PointsFor/End, PointsAgainst/End 
+Kevin Koe, 104, 72, 32, 0, 0.692, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sven Michel, 113, 68, 45, 0, 0.602, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brad Jacobs, 83, 65, 18, 0, 0.783, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Thomas Ulsrud, 90, 65, 25, 0, 0.722, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.14285714285714285, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rui Liu, 97, 65, 32, 0, 0.670, N/A, N/A, N/A, N/A, N/A, N/A, 0.4, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Oskar Eriksson, 96, 64, 32, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brad Gushue, 90, 63, 27, 0, 0.700, N/A, N/A, N/A, N/A, N/A, N/A, 0.8, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jeff Stoughton, 87, 62, 25, 0, 0.713, N/A, N/A, N/A, N/A, N/A, N/A, 0.8, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike McEwen, 78, 61, 17, 0, 0.782, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kevin Martin, 75, 57, 18, 0, 0.760, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Niklas Edin, 91, 51, 40, 0, 0.560, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.2, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+John Shuster, 81, 49, 32, 0, 0.605, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Glenn Howard, 70, 47, 23, 0, 0.671, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Peter De Cruz, 78, 46, 32, 0, 0.590, N/A, N/A, N/A, N/A, N/A, N/A, 0.8, 0.25, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+David Murdoch, 80, 45, 35, 0, 0.563, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brady Clark, 81, 45, 36, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 0.25, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Yusuke Morozumi, 78, 44, 34, 0, 0.564, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.25, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Pascal Hess, 74, 43, 31, 0, 0.581, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Craig Brown, 55, 42, 13, 0, 0.764, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Logan Gray, 60, 41, 19, 0, 0.683, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+John Morris, 61, 41, 20, 0, 0.672, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Kean, 75, 41, 34, 0, 0.547, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Johnny Jahr, 70, 40, 30, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Steve Laycock, 73, 40, 33, 0, 0.548, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Greg Balsdon, 61, 39, 22, 0, 0.639, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jean-Michel Menard, 63, 39, 24, 0, 0.619, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.2, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brendan Bottcher, 71, 39, 32, 0, 0.549, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.2, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Pete Fenson, 75, 39, 36, 0, 0.520, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rasmus Stjerne, 69, 36, 33, 0, 0.522, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.4, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rob Rumfeldt, 56, 35, 21, 0, 0.625, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brock Virtue, 59, 35, 24, 0, 0.593, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+James Grattan, 45, 33, 12, 0, 0.733, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Robert Schlender, 59, 33, 26, 0, 0.559, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jeff Currie, 50, 31, 19, 0, 0.620, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tom Appelman, 52, 31, 21, 0, 0.596, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Matthew Blandford, 49, 30, 19, 0, 0.612, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kyle Smith, 51, 30, 21, 0, 0.588, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.4, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Heath McCormick, 55, 30, 25, 0, 0.545, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+John Epping, 58, 30, 28, 0, 0.517, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 0.2, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott McDonald, 42, 29, 13, 0, 0.690, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jake Walker, 51, 29, 22, 0, 0.569, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Ramsay, 41, 28, 13, 0, 0.683, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bryan Cochrane, 46, 28, 18, 0, 0.609, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tyler George, 51, 28, 23, 0, 0.549, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Markus Hoiberg, 55, 28, 27, 0, 0.509, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 0.6666666666666666, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Soo-Hyuk Kim, 56, 28, 28, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Josh Heidt, 50, 27, 23, 0, 0.540, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Joe Frans, 51, 27, 24, 0, 0.529, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chad Stevens, 40, 26, 14, 0, 0.650, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Bitz, 40, 26, 14, 0, 0.650, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jeff Richard, 37, 25, 12, 0, 0.676, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wayne Tuck Jr., 43, 25, 18, 0, 0.581, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bruce Korte, 44, 25, 19, 0, 0.568, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rob Fowler, 49, 25, 24, 0, 0.510, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mario Freiberger, 51, 25, 26, 0, 0.490, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.25, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jake Higgs, 52, 25, 27, 0, 0.481, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jamie Murphy, 52, 25, 27, 0, 0.481, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Steen Sigurdson, 40, 24, 16, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+David Kraichy, 41, 24, 17, 0, 0.585, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bernhard Werthemann, 46, 24, 22, 0, 0.522, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Dacey, 47, 24, 23, 0, 0.511, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Andrey Drozdov, 63, 24, 39, 0, 0.381, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.4, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nick Rizzo, 36, 23, 13, 0, 0.639, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jeff Hartung, 38, 23, 15, 0, 0.605, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.2, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Craig Van Ymeren, 40, 23, 17, 0, 0.575, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Pat Ferris, 40, 23, 17, 0, 0.575, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+William Lyburn, 44, 23, 21, 0, 0.523, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Don Bowser, 35, 22, 13, 0, 0.629, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Grant Hardie, 37, 22, 15, 0, 0.595, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Eric Fenson, 44, 22, 22, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Grant Dezura, 33, 21, 12, 0, 0.636, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brent Pierce, 35, 21, 14, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Todd Birr, 36, 21, 15, 0, 0.583, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rob Retchless, 36, 21, 15, 0, 0.583, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Peter De Boer, 42, 21, 21, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Richard Daneault, 44, 21, 23, 0, 0.477, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Joel Jordison, 45, 21, 24, 0, 0.467, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sean Grassie, 34, 20, 14, 0, 0.588, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chang-Min Kim, 37, 20, 17, 0, 0.541, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Manners, 38, 20, 18, 0, 0.526, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ted Appelman, 32, 19, 13, 0, 0.594, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Charley Thomas, 33, 19, 14, 0, 0.576, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jared Kolomaya, 38, 19, 19, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wade White, 38, 19, 19, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Martin Ferland, 23, 18, 5, 0, 0.783, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+David Edwards, 26, 18, 8, 0, 0.692, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bryan Burgess, 27, 18, 9, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marc LeCocq, 27, 18, 9, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Amos Mosaner, 27, 18, 9, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kelly Marnoch, 28, 18, 10, 0, 0.643, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Randy Bryden, 30, 18, 12, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Philippe Lemay, 33, 18, 15, 0, 0.545, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike Anderson, 34, 18, 16, 0, 0.529, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Richard Muntain, 35, 18, 17, 0, 0.514, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Korey Dropkin, 36, 18, 18, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jiri Snitil, 42, 18, 24, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike Jakubo, 24, 17, 7, 0, 0.708, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brian Adams Jr., 26, 17, 9, 0, 0.654, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dean Joanisse, 27, 17, 10, 0, 0.630, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ewan MacDonald, 28, 17, 11, 0, 0.607, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ian Fitzner-Leblanc, 31, 17, 14, 0, 0.548, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Darryl Prebble, 31, 17, 14, 0, 0.548, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Peter Burgess, 32, 17, 15, 0, 0.531, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lloyd Hill, 32, 17, 15, 0, 0.531, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Peter Stolt, 35, 17, 18, 0, 0.486, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Josh Johnston, 35, 17, 18, 0, 0.486, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Trevor Bonot, 36, 17, 19, 0, 0.472, N/A, N/A, N/A, N/A, N/A, N/A, 0.3333333333333333, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marc Pfister, 41, 17, 24, 0, 0.415, N/A, N/A, N/A, N/A, N/A, N/A, 0.3333333333333333, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Braden Calvert, 22, 16, 6, 0, 0.727, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Johnson, 22, 16, 6, 0, 0.727, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Thomas Scoffin, 23, 16, 7, 0, 0.696, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+TJ Perepolkin, 26, 16, 10, 0, 0.615, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Kehoe, 27, 16, 11, 0, 0.593, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jamie King, 28, 16, 12, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sean O'Connor, 30, 16, 14, 0, 0.533, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Steve Irwin, 23, 15, 8, 0, 0.652, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tommy Sullivan, 27, 15, 12, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Aaron Squires, 28, 15, 13, 0, 0.536, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chris Ciasnocha, 31, 15, 16, 0, 0.484, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Eirik Mjoen, 20, 14, 6, 0, 0.700, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Michael Fournier, 26, 14, 12, 0, 0.538, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tom Sallows, 28, 14, 14, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kevin Flewwelling, 28, 14, 14, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Andrew Bilesky, 29, 14, 15, 0, 0.483, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alex Leichter, 34, 14, 20, 0, 0.412, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Peter Corner, 19, 13, 6, 0, 0.684, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kevin Marsh, 21, 13, 8, 0, 0.619, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bert Martin, 23, 13, 10, 0, 0.565, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kevin Saccary, 23, 13, 10, 0, 0.565, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Roy Arndt, 23, 13, 10, 0, 0.565, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dean Mamer, 25, 13, 12, 0, 0.520, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jamie Koe, 26, 13, 13, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ken McArdle, 26, 13, 13, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jake Vukich, 29, 13, 16, 0, 0.448, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tomi Rantamaki, 31, 13, 18, 0, 0.419, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.3333333333333333, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Robbie Gordon, 18, 12, 6, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lee Buott, 19, 12, 7, 0, 0.632, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Richard Krell, 20, 12, 8, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dustin Eckstrand, 21, 12, 9, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ethan Meyers, 23, 12, 11, 0, 0.522, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+David Sik, 25, 12, 13, 0, 0.480, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alexander Attinger, 26, 12, 14, 0, 0.462, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Craig Kochan, 26, 12, 14, 0, 0.462, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Eddie MacKenzie, 34, 12, 22, 0, 0.353, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Robert Desjardins, 37, 12, 25, 0, 0.324, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Daylan Vavrek, 15, 11, 4, 0, 0.733, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jason Montgomery, 16, 11, 5, 0, 0.688, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Max Kirkpatrick, 17, 11, 6, 0, 0.647, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Gabor Ezsol, 19, 11, 8, 0, 0.579, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Doug MacKenzie, 22, 11, 11, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rob Lobel, 22, 11, 11, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dennis Bohn, 23, 11, 12, 0, 0.478, N/A, N/A, N/A, N/A, N/A, N/A, 0.5, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike Aprile, 26, 11, 15, 0, 0.423, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brent MacDougall, 29, 11, 18, 0, 0.379, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Yannick Schwaller, 13, 10, 3, 0, 0.769, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Peter Mellor, 15, 10, 5, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tom Worth, 18, 10, 8, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike Farbelow, 18, 10, 8, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+John Luckhurst, 19, 10, 9, 0, 0.526, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Webb, 20, 10, 10, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jaap van Dorp, 24, 10, 14, 0, 0.417, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kevin Park, 25, 10, 15, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Aku Kauste, 26, 10, 16, 0, 0.385, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ryan Myler, 29, 10, 19, 0, 0.345, N/A, N/A, N/A, N/A, N/A, N/A, 0.3333333333333333, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mikkel Krause, 17, 9, 8, 0, 0.529, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ryan Lemke, 17, 9, 8, 0, 0.529, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brent Gedak, 18, 9, 9, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0.75, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Josh Lambden, 18, 9, 9, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+John Lilla, 18, 9, 9, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Paul Flemming, 18, 9, 9, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Torkil Svensgaard, 19, 9, 10, 0, 0.474, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Francois Gagne, 19, 9, 10, 0, 0.474, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Justin Richter, 19, 9, 10, 0, 0.474, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jason Jacobson, 27, 9, 18, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+De Jia Zou, 28, 9, 19, 0, 0.321, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rene Comeau, 12, 8, 4, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Howard Rajala, 12, 8, 4, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bob Genoway, 12, 8, 4, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dylan Johnston, 13, 8, 5, 0, 0.615, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jamie Newson, 16, 8, 8, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Dunnam, 16, 8, 8, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Homan, 16, 8, 8, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0.6666666666666666, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alexander Baumann, 17, 8, 9, 0, 0.471, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shane Park, 18, 8, 10, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Evgeniy Arkhipov, 18, 8, 10, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chris Baier, 18, 8, 10, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cory Heggestad, 18, 8, 10, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Terry Marteniuk, 19, 8, 11, 0, 0.421, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Konstantin Kampf, 19, 8, 11, 0, 0.421, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Thomas Dufour, 20, 8, 12, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brad Heidt, 21, 8, 13, 0, 0.381, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ryan Berg, 22, 8, 14, 0, 0.364, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ritvars Gulbis, 29, 8, 21, 0, 0.276, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dean Ross, 30, 8, 22, 0, 0.267, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kerry Moore, 11, 7, 4, 0, 0.636, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Carter Lautner, 11, 7, 4, 0, 0.636, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brian Lewis, 13, 7, 6, 0, 0.538, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Colin Thomas, 13, 7, 6, 0, 0.538, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Darren Camm, 14, 7, 7, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Steeve Gagnon, 14, 7, 7, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nathan Martin, 15, 7, 8, 0, 0.467, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alan O'Leary, 15, 7, 8, 0, 0.467, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+John Hamilton, 15, 7, 8, 0, 0.467, N/A, N/A, N/A, N/A, N/A, N/A, 0.3333333333333333, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dan Lemieux, 16, 7, 9, 0, 0.438, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dennis Moretto, 16, 7, 9, 0, 0.438, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brandon Tippin, 16, 7, 9, 0, 0.438, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ian MacAulay, 17, 7, 10, 0, 0.412, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike Armstrong, 17, 7, 10, 0, 0.412, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Stefan Haesler, 18, 7, 11, 0, 0.389, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+John Stroh, 18, 7, 11, 0, 0.389, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brent Yamada, 19, 7, 12, 0, 0.368, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Terry Corbin, 20, 7, 13, 0, 0.350, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike Wenger, 7, 6, 1, 0, 0.857, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Joey Rettinger, 8, 6, 2, 0, 0.750, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Martin Lill, 9, 6, 3, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Trevor Loreth, 9, 6, 3, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ryan McCrady, 10, 6, 4, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tyler Hartung, 10, 6, 4, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Robert Mayhew, 10, 6, 4, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike Hutchings, 11, 6, 5, 0, 0.545, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Darrell McKee, 11, 6, 5, 0, 0.545, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brent Scales, 11, 6, 5, 0, 0.545, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Warwick Smith, 11, 6, 5, 0, 0.545, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Neil Dangerfield, 11, 6, 5, 0, 0.545, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bo Jensen, 11, 6, 5, 0, 0.545, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bill Irwin, 12, 6, 6, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Steven Andrews, 12, 6, 6, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Paul Pustovar, 13, 6, 7, 0, 0.462, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Randy Woytowich, 14, 6, 8, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Fredrik Nyman, 14, 6, 8, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lee McCleary, 15, 6, 9, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shea Steele, 15, 6, 9, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shannon Beddows, 15, 6, 9, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Michael Shepherd, 17, 6, 11, 0, 0.353, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kyle Foster, 18, 6, 12, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Fengchun Wang, 19, 6, 13, 0, 0.316, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Randie Shen, 22, 6, 16, 0, 0.273, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dale Gibbs, 30, 6, 24, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Daryl Shane, 5, 5, 0, 0, 1.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Phil Daniel, 6, 5, 1, 0, 0.833, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+James Kirkness, 7, 5, 2, 0, 0.714, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alan Macdougall, 8, 5, 3, 0, 0.625, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Stig Hoiberg, 8, 5, 3, 0, 0.625, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dale Kelly, 8, 5, 3, 0, 0.625, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Willie MacPherson, 8, 5, 3, 0, 0.625, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jakub Glowania, 8, 5, 3, 0, 0.625, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Daniel Dudt, 9, 5, 4, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jeff Clark, 9, 5, 4, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brandon Scheel, 9, 5, 4, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Joe Wallingham, 9, 5, 4, 0, 0.556, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike Libbus, 10, 5, 5, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cameron de Jong, 10, 5, 5, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Simon Ouellet, 10, 5, 5, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ben Mikkelsen, 10, 5, 5, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tanner Horgan, 10, 5, 5, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Greg  Keith, 10, 5, 5, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Justin Mihalicz, 10, 5, 5, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Neil Gerrish, 10, 5, 5, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bowie Abbis-Mills, 11, 5, 6, 0, 0.455, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ross McCleary, 11, 5, 6, 0, 0.455, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Pillsworth, 11, 5, 6, 0, 0.455, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shawn Joyce, 11, 5, 6, 0, 0.455, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dale Matchett, 12, 5, 7, 0, 0.417, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Artur Ali, 13, 5, 8, 0, 0.385, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Roman Ruch, 14, 5, 9, 0, 0.357, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kent Smith, 14, 5, 9, 0, 0.357, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Denis Robichaud, 14, 5, 9, 0, 0.357, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Justin Stanus, 15, 5, 10, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.5, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+John Young Jr., 16, 5, 11, 0, 0.313, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Anthony Purcell, 17, 5, 12, 0, 0.294, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kent Beadle, 18, 5, 13, 0, 0.278, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Fraser Hare, 6, 4, 2, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bob Turcotte, 6, 4, 2, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Robert Campbell, 6, 4, 2, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Neal Watkins, 7, 4, 3, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Trent Skanes, 7, 4, 3, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tom Buchy, 7, 4, 3, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jamie Schneider, 7, 4, 3, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ken Leach, 7, 4, 3, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Adrian Meikle, 7, 4, 3, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+James Pahl, 7, 4, 3, 0, 0.571, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shane Longley, 8, 4, 4, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Al Hutchinson, 8, 4, 4, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tom Slumskie, 8, 4, 4, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dale Fellows, 8, 4, 4, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jerry Chudley, 8, 4, 4, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dave Manser, 9, 4, 5, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wesley Pedersen, 9, 4, 5, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shinya Abe, 9, 4, 5, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+David Smith, 9, 4, 5, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chris De Cloet, 9, 4, 5, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rod MacDonald, 9, 4, 5, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marcus Hasselborg, 9, 4, 5, 0, 0.444, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kyle Doering, 10, 4, 6, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Graham Shaw, 10, 4, 6, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+William Coutts, 10, 4, 6, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wayne Ewasko, 11, 4, 7, 0, 0.364, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Greg Richardson, 12, 4, 8, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lyle Kent, 13, 4, 9, 0, 0.308, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Steven Birklid, 14, 4, 10, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chad Dahlseide, 14, 4, 10, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nolan Reid, 14, 4, 10, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rob Maksymetz, 15, 4, 11, 0, 0.267, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Matt Paul, 16, 4, 12, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Moray Combe, 17, 4, 13, 0, 0.235, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Hugh Millikin, 20, 4, 16, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rayad Husain, 21, 4, 17, 0, 0.190, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Madams, 3, 3, 0, 0, 1.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wyllie Allan, 4, 3, 1, 0, 0.750, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Fraser Reid, 4, 3, 1, 0, 0.750, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mel Steffin, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Daniel Herberg, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cam Culp, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Doug Kauffman, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Matt Stevens, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cory Zdan, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alexander Stocker, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Benoit Gagne, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Danny Sherrard, 5, 3, 2, 0, 0.600, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tracy Steinke, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dave Fischer, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Randy Neufeld, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shawn Broda, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Pat Paslawski, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bryan Rindal, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kevin Aberle, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rick Phillips, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jim Bell, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Blair Jay, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Todd Brandwood, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Steve Meunier, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Owen Sampson, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Claude Lapointe, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Patrick Gelinas, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Vince Huffman, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ken Peddigrew, 6, 3, 3, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alican Karatas, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Terry Odishaw, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mikael Qvist, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Shaun Mott, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Paul Dobson, 7, 3, 4, 0, 0.429, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+AJ Schumacher, 8, 3, 5, 0, 0.375, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jeff Brown, 8, 3, 5, 0, 0.375, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jason Malcho, 8, 3, 5, 0, 0.375, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rick Thurston, 8, 3, 5, 0, 0.375, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lukas Klima, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Daniel Plys, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Saunders, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Adam Freilich, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kyle Holland, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sebastian Wunderer, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lyle Sieg, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brad Frazer, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Stephen Trickett, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Andrew Thompson, 9, 3, 6, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Andrew Symonds, 10, 3, 7, 0, 0.300, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Geoff Trimble, 11, 3, 8, 0, 0.273, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wade Scoffin, 11, 3, 8, 0, 0.273, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wayne Tallon, 11, 3, 8, 0, 0.273, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Markus Forejtek, 11, 3, 8, 0, 0.273, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Zack Eldridge, 11, 3, 8, 0, 0.273, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Stephen Dropkin, 14, 3, 11, 0, 0.214, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Curtis Harrish, 14, 3, 11, 0, 0.214, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Matt Willerton, 15, 3, 12, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jason March, 3, 2, 1, 0, 0.667, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brian Glover, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nicholas Connolly, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Peter Van Ymeren, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Daniel Caron, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Gary Weiss, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dave Fischer, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Todd Jones, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Graham Freeman, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Michael Hauser, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kevin Fleming, 4, 2, 2, 0, 0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Corey Martens, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Glen Toews, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Randy Guidinger, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Colin Griffith, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ross Simmons, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cory Ward, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott DeCap, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Craig Ireland, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Gary Rowe, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Robert Collins, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Babin, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tyler Harris, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+John Cummine, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bill Hope, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wade Sydorko, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Catlin Schneider, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kenton Maschmeyer, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Walter, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Blair Weeks, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chris Glibota, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bruce Mouat, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lloyd Fell, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Graham Powell, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Glenn Evans, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Derrick Casper, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bryan Hill, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wes Craig, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wes Wiwcharuk, 5, 2, 3, 0, 0.400, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Juraj Gallo, 6, 2, 4, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Makoto Tsuruga, 6, 2, 4, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bob Armstrong, 6, 2, 4, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Josh Burns, 6, 2, 4, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tommy Stjerne, 6, 2, 4, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alen Cadez, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marc Suter, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ray Balachorek, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Darko Reischek, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kevin Brown, 7, 2, 5, 0, 0.286, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wade Walsh, 8, 2, 6, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Spencer Cooper, 8, 2, 6, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Gustav Eskilsson, 8, 2, 6, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+John Bell, 8, 2, 6, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tadas Vyskupaitis, 8, 2, 6, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alexander Dyer, 8, 2, 6, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Clay Osterhaus, 9, 2, 7, 0, 0.222, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Matthew Miller, 9, 2, 7, 0, 0.222, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mikel Unanue, 10, 2, 8, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brian Ness, 11, 2, 9, 0, 0.182, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Sam Galey, 12, 2, 10, 0, 0.167, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ryan Hyde, 13, 2, 11, 0, 0.154, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Christian Moser, 14, 2, 12, 0, 0.143, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Pavel Kocian, 16, 2, 14, 0, 0.125, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Warren Cross, 17, 2, 15, 0, 0.118, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Joel Moore, -5, 1, -6, 0, -0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Gary Downs, 0, 1, -1, 0, ---, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Silvano Pesavento, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kelly Robertson, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bob Sigurdson, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dave Cobean, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Craig Milburn, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Greg Todoruk, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Oliver Campbell, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ondrej Hurtik, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Doug Hamilton, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jim Brackett, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Randy Dutiaume, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Guy Racette, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Doug Hamblin, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Fritz Oswald, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Trevor Feil, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nathan Grudnizki, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Michal Vojtus, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Damien Villard, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dale Fanset, 3, 1, 2, 0, 0.333, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rob Harris, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Matt Yeo, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brett Vavrek, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rick Law, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Stephen Schneider, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tyler Runing, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jay Young, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Robin Brydone, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Thomas Stroh, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Matthew Smith, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Blair Fraser, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rasmus Wrana, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Smith, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Trevor Ylioja, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Zahacy, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Albert Gerdung, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Reagan Hadden, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Michael Roy, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Gord Bell, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lionel Locke, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rod Quintin, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Denis Lachance, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kieran Scott, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brad Bibby, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 1.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+George Hall, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dave Stewart, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tom Scott, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jessi Wilkinson, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tyler Tardi, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jack McDonald, 4, 1, 3, 0, 0.250, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dustin Turcotte, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Geoff Goodland, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ted White, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Magnus Ramsfjell, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Guy Hemmings, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Wayne Sangster, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jason Ginter, 5, 1, 4, 0, 0.200, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Greg Skauge, 6, 1, 5, 0, 0.167, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Paul Madgett, 6, 1, 5, 0, 0.167, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Doug Brewer, 6, 1, 5, 0, 0.167, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike Fraboni, 6, 1, 5, 0, 0.167, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bent Kristoffersen, 6, 1, 5, 0, 0.167, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brody Hanson, 7, 1, 6, 0, 0.143, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Richard Brower, 7, 1, 6, 0, 0.143, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Longworth, 7, 1, 6, 0, 0.143, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Allen Coliban, 7, 1, 6, 0, 0.143, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jamie Chisholm, 7, 1, 6, 0, 0.143, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ulrik Damm, 7, 1, 6, 0, 0.143, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Timothy Verreycken, 8, 1, 7, 0, 0.125, N/A, N/A, N/A, N/A, N/A, N/A, 1.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Andre Neuenschwander, 9, 1, 8, 0, 0.111, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Joffrey Vincent, 9, 1, 8, 0, 0.111, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alexandre Ferland, 9, 1, 8, 0, 0.111, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ally Fraser, 9, 1, 8, 0, 0.111, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Willmert, 14, 1, 13, 0, 0.071, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Serge Reid, 15, 1, 14, 0, 0.067, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+DJ Ronaldson, 0, 0, 0, 0, ---, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jim Lyle, 0, 0, 0, 0, ---, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rob Atkins, 1, 0, 1, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Glen Parrott, 2, 0, 2, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Banner, 2, 0, 2, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dave Collyer, 2, 0, 2, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Axel Larsen, 2, 0, 2, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Grant Brown, 2, 0, 2, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dave Johnson, 2, 0, 2, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mark Lukowich, 2, 0, 2, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Peter Gilbert, 2, 0, 2, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Don Nelson, 2, 0, 2, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Dennis Shupe, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Graham Shedden, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Doug Phelps, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Darrel Veiner, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bill Dauphinais, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Chris McTavish, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Robin Shillington, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bill Cameron, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Vic Rocque, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Cliff Kostiuk, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Steve Frankland, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tyler Waterhouse, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Harrison Boss, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Terry Bushell, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Donald Clarey, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bob Armstrong, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Trevor Funk, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Adam Bolen, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brent Palmer, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jim Yurchevich, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lyle Brown, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Len Brossart, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kevin Kakela, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Simon Dupuis, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Les Steuber, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lionel Holm, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tony Moore, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Gord Thompson, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Christian Crete, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jonathan Doan, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kyle Stevenson, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brian Smith, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bernhard Lips, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Pat Chartier, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Bob Ingram, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kevin Yablonski, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Lee Hodgson, 3, 0, 3, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Brian Gabrio, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alexey Tselousov, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Ben Bevan, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+David Misun, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Nicolas Marceau, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Andy Borland, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Simone Gonin, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jonas Waechli, 4, 0, 4, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Rick Rowsell, 5, 0, 5, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Tom Sorlundsengen, 5, 0, 5, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Blair Hedden, 5, 0, 5, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Marc Muskatewitz, 6, 0, 6, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Mike Assad, 6, 0, 6, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Kris Blonski, 6, 0, 6, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0.0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Peter Nielsen, 7, 0, 7, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Scott Ballantyne, 8, 0, 8, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0.0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Adam Prosser, 8, 0, 8, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Jamie Airut, 9, 0, 9, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Alhrik Schommer, 9, 0, 9, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Zhilin Shao, 9, 0, 9, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Maciej Cesarz, 9, 0, 9, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Hans Frauenlob, 10, 0, 10, 0, 0.000, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 
+Don Beaton, 2, -1, 3, 0, -0.500, N/A, N/A, N/A, N/A, N/A, N/A, 0, 0, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A 

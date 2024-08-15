@@ -25,7 +25,7 @@ def fetchMensTeams(filePath, url):
     rows = tableToSearch.find_all('tr')
 
     f = open(filePath, 'w')
-    f.write("Team, GamesPlayed, Wins, Losses, Ties, PCT, HammerEfficiency, ExtraEndHammer, ExtraEndSteal, Ends, PointsFor, PointsAgainst, PointsFor/Game, PointsAgainst/Game, AvgDiff, HammerPF/E, HammerPA/E, NoHammerPF/E, NoHammerPA/E, EndsFor/Game, EndsAgainst/Game, PointsFor/End, PointsAgainst/End, BigEnds/Game, StealDefence, ForceEfficiency, StealEfficiency \n")   
+    f.write("Team, GamesPlayed, Wins, Losses, Ties, PCT, HammerEfficiency, StealDefence, StealEfficiency, ForceEfficiency, BlankEnds, BlankEnds/Game, ExtraEndHammer, ExtraEndSteal, Ends, PointsFor, PointsAgainst, PointsFor/Game, PointsAgainst/Game, AvgDiff, HammerPF/E, HammerPA/E, NoHammerPF/E, NoHammerPA/E, EndsFor/Game, EndsAgainst/Game, PointsFor/End, PointsAgainst/End \n")   
 
 
     # Prepare lists to store data
@@ -79,22 +79,31 @@ def fetchMensTeams(filePath, url):
 
 
 
-            f.write(f'{team}, {gp}, {win}, {loss}, {tie}, {pct}, N/A, {eeh}, {ees}, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, \n')
+            f.write(f'{team}, {gp}, {win}, {loss}, {tie}, {pct}, N/A, N/A, N/A, N/A, N/A, N/A, {eeh}, {ees}, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A \n')
+
 
             
 
 fetchList = {
-    # "Stats/Men/Season/2018-2019.csv": 'https://www.curlingzone.com/statistics.php?ey=2019&et=81#1',
-    # "Stats/Men/Season/2017-2018.csv": 'https://www.curlingzone.com/statistics.php?ey=2018&et=81#1',
-    # "Stats/Men/Season/2016-2017.csv": 'https://www.curlingzone.com/statistics.php?ey=2017&et=81#1',
-    # "Stats/Men/Season/2015-2016.csv": 'https://www.curlingzone.com/statistics.php?ey=2016&et=81#1',
-    # "Stats/Men/Season/2014-2015.csv": 'https://www.curlingzone.com/statistics.php?ey=2015&et=81#1',
-    # "Stats/Men/Season/2013-2014.csv": 'https://www.curlingzone.com/statistics.php?ey=2014&et=81#1',
-    # "Stats/Men/Season/2012-2013.csv": 'https://www.curlingzone.com/statistics.php?ey=2013&et=81#1',
-    # "Stats/Men/Season/2011-2012.csv": 'https://www.curlingzone.com/statistics.php?ey=2012&et=81#1',
-    # "Stats/Men/Season/2010-2011.csv": 'https://www.curlingzone.com/statistics.php?ey=2011&et=81#1',
+    "Stats/Men/Season/2020-2021.csv": 'https://www.curlingzone.com/statistics.php?ey=2021&et=81#1',
+
+    "Stats/Men/Season/2019-2020.csv": 'https://www.curlingzone.com/statistics.php?ey=2020&et=81#1',
+
+    "Stats/Men/Season/2018-2019.csv": 'https://www.curlingzone.com/statistics.php?ey=2019&et=81#1',
+    "Stats/Men/Season/2017-2018.csv": 'https://www.curlingzone.com/statistics.php?ey=2018&et=81#1',
+    "Stats/Men/Season/2016-2017.csv": 'https://www.curlingzone.com/statistics.php?ey=2017&et=81#1',
+    "Stats/Men/Season/2015-2016.csv": 'https://www.curlingzone.com/statistics.php?ey=2016&et=81#1',
+    "Stats/Men/Season/2014-2015.csv": 'https://www.curlingzone.com/statistics.php?ey=2015&et=81#1',
+    "Stats/Men/Season/2013-2014.csv": 'https://www.curlingzone.com/statistics.php?ey=2014&et=81#1',
+    "Stats/Men/Season/2012-2013.csv": 'https://www.curlingzone.com/statistics.php?ey=2013&et=81#1',
+    "Stats/Men/Season/2011-2012.csv": 'https://www.curlingzone.com/statistics.php?ey=2012&et=81#1',
+
+    "Stats/Women/Season/2020-2021.csv": 'https://www.curlingzone.com/statistics.php?ey=2021&et=82#1',
+    
+    "Stats/Women/Season/2019-2020.csv": 'https://www.curlingzone.com/statistics.php?ey=2020&et=82#1',
 
     "Stats/Women/Season/2018-2019.csv": 'https://www.curlingzone.com/statistics.php?ey=2019&et=82#1',
+
     "Stats/Women/Season/2017-2018.csv": 'https://www.curlingzone.com/statistics.php?ey=2018&et=82#1',
     "Stats/Women/Season/2016-2017.csv": 'https://www.curlingzone.com/statistics.php?ey=2017&et=82#1',
     "Stats/Women/Season/2015-2016.csv": 'https://www.curlingzone.com/statistics.php?ey=2016&et=82#1',
@@ -102,7 +111,6 @@ fetchList = {
     "Stats/Women/Season/2013-2014.csv": 'https://www.curlingzone.com/statistics.php?ey=2014&et=82#1',
     "Stats/Women/Season/2012-2013.csv": 'https://www.curlingzone.com/statistics.php?ey=2013&et=82#1',
     "Stats/Women/Season/2011-2012.csv": 'https://www.curlingzone.com/statistics.php?ey=2012&et=82#1',
-    "Stats/Women/Season/2010-2011.csv": 'https://www.curlingzone.com/statistics.php?ey=2011&et=82#1',
 
 
 }
