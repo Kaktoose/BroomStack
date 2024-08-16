@@ -89,7 +89,13 @@ article{
     margin: 10px auto 60px auto;
 }
 
+.releaseNotes{
+    padding: 5%;
+}
 
+.releaseNotes h4{
+    font-weight: normal;
+}
 
 #seasonTitle{
     text-align: center;
@@ -164,3 +170,32 @@ a.listedName{
 #all-time{
     text-align: center;
 }
+
+.homePageLinks{
+    display: flex;
+    justify-content:  space-around;
+}
+
+.homePageLinks div{
+    border: 1px black solid;
+    border-radius: 10px;
+    width: 20%;
+}
+
+.homePageLinks h3{
+    font-size: 15px;
+    padding: 5px;
+}
+.homePageLinks h2{
+    text-align: center;
+    padding: 5px;
+}
+
+
+.homePageLinks i{
+    color: black;
+    font-size: 25px;
+    padding: 5px;
+    text-align: center;
+}
+
