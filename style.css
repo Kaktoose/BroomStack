@@ -199,3 +199,42 @@ a.listedName{
     text-align: center;
 }
 
+.eventsAnchor{
+    color: black;
+    font-weight: normal;
+}
+
+.eventList li:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+
+.eventList li:hover{
+    background-color: #dfdede;
+
+}
+
+.eventList{
+    padding: 25px;
+    list-style-type:none;
+
+
+}
+
+.eventList li{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+#eventContainer{
+
+    padding: 5px;
+
+
+}
+
+.previewAvailable{
+    text-decoration: underline; 
+}

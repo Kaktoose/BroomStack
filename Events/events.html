@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Events</title>
+</head>
+<body>
+ <div id="nav-placeholder">
+
+ </div>
+
+
+    <article id="siteContent">
+        
+        <div id="eventContainer">
+            <h2 style="padding: 10px; text-align: center;">Event Previews</h2>
+            <ul class="eventList">
+                <li><a href="javascript:;"  onclick="generatePreview('tourChallengeM')" class="eventsAnchor">M: HearingLife Tour Challenge </a><span>| Oct 1-6 | Charlottetown, PEI</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('tourChallengeW')" class="eventsAnchor">W: HearingLife Tour Challenge </a><span>| Oct 1-6 | Charlottetown, PEI</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('panContM')" class="eventsAnchor">M: Pan Continental Curling Championships</a><span>| Oct 27 - Nov 2 | Lacombe, AB</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('panContW')" class="eventsAnchor">W: Pan Continental Curling Championships</a><span>| Oct 27 - Nov 2 | Lacombe, AB</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('canadianOpenM')" class="eventsAnchor">M: Co-Op Canadian Open</a><span>| Nov 5-10 | Nisku, AB</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('canadianOpenW')" class="eventsAnchor">W: Co-Op Canadian Open</a>| Nov 5-10 | Nisku, AB</li>
+                <li><a href="javascript:;" onclick="generatePreview('eurosM')" class="eventsAnchor">M: European Championship</a><span>| Nov 16-23 | Lohja, Finland</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('eurosW')" class="eventsAnchor">W: European Championship</a><span>| Nov 16-23 | Lohja, Finland</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('nationalM')" class="eventsAnchor">M: Kioti National</a><span>| Nov 26- Dec 1 | St John's, NL</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('nationalW')" class="eventsAnchor">W: Kioti National</a><span>| Nov 26- Dec 1 | St John's, NL</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('mastersM')" class="eventsAnchor">M: WFG Masters</a><span>| Jan 14-19 | Guelph, ON</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('mastersW')" class="eventsAnchor">W: WFG Masters</a><span>| Jan 14-19 | Guelph, ON</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('ontTankard')" class="eventsAnchor">Ontario Tankard</a><span>| Jan 20-26 | Cobourg, ON</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('ontScotties')" class="eventsAnchor">Ontario Scotties</a><span>| Jan 20-26 | Cobourg, ON</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('saskTankard')" class="eventsAnchor">Saskatchewan Tankard</a><span>| Jan 21-26 | Kindersley, SK</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('saskScotties')" class="eventsAnchor">Saskatchewan Scotties</a><span>| Jan 21-26 | Kindersley, SK</span></li>
+
+
+                <li><a href="javascript:;" onclick="generatePreview('manScotties')" class="eventsAnchor">Manitoba RME Women of The Rings</a><span>| Jan 21-26 | Pilot Mound, MB</span></li>
+
+                <li><a href="javascript:;" onclick="generatePreview('bostonPizza')" class="eventsAnchor">Alberta Boston Pizza Cup</a><span>| Feb 4-9 | Stettler, AB</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('viterraMan')" class="eventsAnchor">Manitoba Viterra Men's Championship</a><span>| Feb 4-9 | Portage la Prairie, MB</span></li>
+
+                <li><a href="javascript:;" onclick="generatePreview('scotties')" class="eventsAnchor">Scotties Tournament of Hearts</a><span>| Feb 14-23 | Thunder Bay, ON</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('brier')" class="eventsAnchor">Montana's Brier</a><span>| Feb 28 - Mar 9 | Kelowna, BC</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('worldWomens')" class="eventsAnchor">World Womens</a><span>| Mar 15 - 23 | Uijeongbu, South Korea</span></li>
+                <li><a href="javascript:;" onclick="generatePreview('worldMens')" class="eventsAnchor">World Mens</a><span>| Mar 29 - Apr 6 | Moose Jaw, SK</span></li>
+
+
+            </ul>
+        </div>
+    </article>
+
+<script src="script.js"></script>
+<script src="previews.js"></script>
+<script>
+    $(function(){
+        $("#nav-placeholder").load("../nav.html");
+      });
+</script>
+</body>
+</html>
