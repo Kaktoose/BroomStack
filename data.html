@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Events</title>
+</head>
+<body>
+ <div id="nav-placeholder">
+
+ </div>
+
+
+    <article id="siteContent">
+        <h2 id="seasonTitle">Raw Data</h2>
+        <h3 style="font-weight: normal; padding: 25px; text-align: center;">The BroomStack GitHub repository provides raw, machine-readable curling data, including statistics from our SeasonRanks section and detailed information from individual events like National Championships and Slam Events. Data includes team rosters, player percentages, and individual game results dating back to 2015. </h3>
+        <h3 style="font-weight: normal; padding: 5px"></h3>
+
+
+        <div class="homePageLinks" style="padding-bottom: 15px;">
+            <div  class="homePageContainer" style="background-color: #f2f2f2;">
+                <a href="https://github.com/Kaktoose/BroomStack/tree/main/Stats"><h2 style="font-weight: normal; text-decoration: underline; color:black;">SeasonRanks</h2></a>
+                <h3 style="font-weight: normal">*Limited information prior to 2020</h3>
+                <h3 style="font-weight: normal">Source: CurlingZone</h3>
+
+            </div>
+            <div class="homePageContainer" style="background-color: #f2f2f2;">
+                <a href="https://github.com/Kaktoose/BroomStack/tree/main/RawData/Canada"><h2 style="font-weight: normal; text-decoration: underline; color:black;">Curling Canada Events</h2></a> 
+                <h3 style="font-weight: normal">Team Rosters, Player Percentages, Draw Results</h3>
+                <h3 style="font-weight: normal">Source: curling.io API</h3>
+
+            </div>
+            <div class="homePageContainer" style="background-color: #f2f2f2;">
+                <a href="https://github.com/Kaktoose/BroomStack/tree/main/RawData/Slam"><h2 style="font-weight: normal; text-decoration: underline; color:black;">Slam Events</h2></a>
+                <h3 style="font-weight: normal">Team Rosters, Player Percentages, Draw Results</h3>
+                <h3 style="font-weight: normal">Source: curling.io API</h3>
+
+
+            </div>
+        </div>
+
+    </article>
+
+<script src="script.js"></script>
+<script src="previews.js"></script>
+<script>
+    $(function(){
+        $("#nav-placeholder").load("../nav.html");
+      });
+</script>
+<script>
+    $(function(){
+        $("#footer-placeholder").load("../footer.html");
+      });
+</script>
+<div id="footer-placeholder"></div>
+</body>
+</html>

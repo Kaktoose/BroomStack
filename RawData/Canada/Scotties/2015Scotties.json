@@ -1,0 +1,3873 @@
+{
+    "id": 1592,
+    "name": "2015 Scotties Tournament of Hearts",
+    "time_zone": "Saskatchewan",
+    "time_zone_short": "CST",
+    "starts_on": "Feb 12, 2015",
+    "ends_on": "Feb 22, 2015",
+    "state": "complete",
+    "location": "Moose Jaw, Saskatchewan",
+    "venue": "Mosaic Place",
+    "summary": "Canadian Women's Curling Championship",
+    "team_restriction": "Open",
+    "age_range": "N/A",
+    "no_registration_message": "Registration soon",
+    "teams": [
+        {
+            "id": 66451,
+            "name": "Alberta (Sweeting)",
+            "short_name": "AB (Sweeting)",
+            "coach": "Garry Coderre",
+            "affiliation": "Saville Sports Centre",
+            "location": "Edmonton, Alberta",
+            "lineup": []
+        },
+        {
+            "id": 66452,
+            "name": "British Columbia (Knezevic)",
+            "short_name": "BC (Knezevic)",
+            "coach": "Jay Batch",
+            "affiliation": "Prince George Golf \u0026 Curling Club",
+            "location": "Prince George, British Columbia",
+            "lineup": []
+        },
+        {
+            "id": 66450,
+            "name": "Manitoba (Jones)",
+            "short_name": "MB (Jones)",
+            "coach": "Wendy Morgan",
+            "affiliation": "St. Vital Curling Club",
+            "location": "Winnipeg, Manitoba",
+            "lineup": []
+        },
+        {
+            "id": 66447,
+            "name": "New Brunswick (Robichaud)",
+            "short_name": "NB (Robichaud)",
+            "coach": "Ellery Robichaud",
+            "affiliation": "Curl Moncton",
+            "location": "Moncton, New Brunswick",
+            "lineup": []
+        },
+        {
+            "id": 66455,
+            "name": "Newfoundland \u0026 Labrador (Strong)",
+            "short_name": "NL (Strong)",
+            "coach": "Geoff Cunningham",
+            "affiliation": "Bally Haly Country Club",
+            "location": "St. John's, NL",
+            "lineup": []
+        },
+        {
+            "id": 66457,
+            "name": "Northern Ontario (Horgan)",
+            "short_name": "NO (Horgan)",
+            "coach": "Andrea Ronnebeck",
+            "affiliation": "Idylwylde Golf \u0026 Country Club",
+            "location": "Sudbury, Ontario",
+            "lineup": []
+        },
+        {
+            "id": 66459,
+            "name": "Northwest Territories (Galusha)",
+            "short_name": "NT (Galusha)",
+            "coach": "Jock Tyre",
+            "affiliation": "Yellowknife Curling Centre",
+            "location": "Yellowknife, NT",
+            "lineup": []
+        },
+        {
+            "id": 66454,
+            "name": "Nova Scotia (Arsenault)",
+            "short_name": "NS (Arsenault)",
+            "coach": "Peter Corkum",
+            "affiliation": "Mayflower Curling Club",
+            "location": "Halifax, Nova Scotia",
+            "lineup": []
+        },
+        {
+            "id": 66449,
+            "name": "Ontario (Hastings)",
+            "short_name": "ON (Hastings)",
+            "coach": "Jim Anderson",
+            "affiliation": "Bayview Golf \u0026 Country Club",
+            "location": "Thornhill, Ontario",
+            "lineup": []
+        },
+        {
+            "id": 66448,
+            "name": "Prince Edward Island (Birt)",
+            "short_name": "PE (Birt)",
+            "coach": "Kim Dolan",
+            "affiliation": "Charlottetown Curling Complex",
+            "location": "Charlottetown, PE",
+            "lineup": []
+        },
+        {
+            "id": 66456,
+            "name": "Québec (Mann)",
+            "short_name": "QC (Mann)",
+            "coach": "Andy Broder",
+            "affiliation": "Glenmore and Etchemin Curling Club",
+            "location": "Montreal/Quebec City, QC",
+            "lineup": []
+        },
+        {
+            "id": 66453,
+            "name": "Saskatchewan (Lawton)",
+            "short_name": "SK (Lawton)",
+            "coach": "Rick Folk",
+            "affiliation": "Nutana Curling Club",
+            "location": "Saskatoon, Saskatchewan",
+            "lineup": []
+        },
+        {
+            "id": 66458,
+            "name": "Team Canada (Homan)",
+            "short_name": "CAN (Homan)",
+            "coach": "Richard Hart",
+            "affiliation": "Ottawa Curling Club",
+            "location": "Ottawa, Ontario",
+            "lineup": []
+        },
+        {
+            "id": 66460,
+            "name": "Yukon (Koltun)",
+            "short_name": "YT (Koltun)",
+            "coach": "Bill Tschirhart",
+            "affiliation": "Whitehorse Curling Club",
+            "location": "Whitehorse, Yukon",
+            "lineup": []
+        }
+    ],
+    "stages": [
+        {
+            "id": 6044,
+            "type": "RoundRobin",
+            "name": "Pre-qualifier Round Robin",
+            "standings": [
+                {
+                    "id": 66457,
+                    "rank": 1,
+                    "played": 2,
+                    "wins": 2,
+                    "ties": 0,
+                    "losses": 0,
+                    "lsd": null
+                },
+                {
+                    "id": 66459,
+                    "rank": 2,
+                    "played": 2,
+                    "wins": 1,
+                    "ties": 0,
+                    "losses": 1,
+                    "lsd": null
+                },
+                {
+                    "id": 66460,
+                    "rank": 3,
+                    "played": 2,
+                    "wins": 0,
+                    "ties": 0,
+                    "losses": 2,
+                    "lsd": null
+                }
+            ],
+            "games": [
+                {
+                    "name": "YT (Koltun) vs NT (Galusha)",
+                    "state": "complete",
+                    "id": "ab550847",
+                    "game_positions": [
+                        {
+                            "team_id": 66460,
+                            "score": 10,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                1,
+                                0,
+                                2,
+                                1,
+                                0,
+                                1,
+                                0,
+                                4,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66459,
+                            "score": 11,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                5,
+                                0,
+                                2,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NO (Horgan) vs YT (Koltun)",
+                    "state": "complete",
+                    "id": "ebb359e3",
+                    "game_positions": [
+                        {
+                            "team_id": 66457,
+                            "score": 7,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                2,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66460,
+                            "score": 5,
+                            "result": "conceded",
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NT (Galusha) vs NO (Horgan)",
+                    "state": "complete",
+                    "id": "abfc3ea8",
+                    "game_positions": [
+                        {
+                            "team_id": 66459,
+                            "score": 5,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66457,
+                            "score": 10,
+                            "result": "won",
+                            "end_scores": [
+                                0,
+                                2,
+                                2,
+                                2,
+                                0,
+                                1,
+                                2,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6046,
+            "type": "RoundRobin",
+            "name": "Round Robin",
+            "standings": [
+                {
+                    "id": 66450,
+                    "rank": 1,
+                    "played": 11,
+                    "wins": 10,
+                    "ties": 0,
+                    "losses": 1,
+                    "lsd": null
+                },
+                {
+                    "id": 66451,
+                    "rank": 2,
+                    "played": 11,
+                    "wins": 9,
+                    "ties": 0,
+                    "losses": 2,
+                    "lsd": null
+                },
+                {
+                    "id": 66453,
+                    "rank": 3,
+                    "played": 11,
+                    "wins": 8,
+                    "ties": 0,
+                    "losses": 3,
+                    "lsd": null
+                },
+                {
+                    "id": 66458,
+                    "rank": 4,
+                    "played": 11,
+                    "wins": 7,
+                    "ties": 0,
+                    "losses": 4,
+                    "lsd": null
+                },
+                {
+                    "id": 66457,
+                    "rank": 5,
+                    "played": 11,
+                    "wins": 6,
+                    "ties": 0,
+                    "losses": 5,
+                    "lsd": null
+                },
+                {
+                    "id": 66449,
+                    "rank": 6,
+                    "played": 11,
+                    "wins": 5,
+                    "ties": 0,
+                    "losses": 6,
+                    "lsd": null
+                },
+                {
+                    "id": 66454,
+                    "rank": 7,
+                    "played": 11,
+                    "wins": 5,
+                    "ties": 0,
+                    "losses": 6,
+                    "lsd": null
+                },
+                {
+                    "id": 66455,
+                    "rank": 8,
+                    "played": 11,
+                    "wins": 4,
+                    "ties": 0,
+                    "losses": 7,
+                    "lsd": null
+                },
+                {
+                    "id": 66448,
+                    "rank": 9,
+                    "played": 11,
+                    "wins": 4,
+                    "ties": 0,
+                    "losses": 7,
+                    "lsd": null
+                },
+                {
+                    "id": 66447,
+                    "rank": 10,
+                    "played": 11,
+                    "wins": 4,
+                    "ties": 0,
+                    "losses": 7,
+                    "lsd": null
+                },
+                {
+                    "id": 66456,
+                    "rank": 11,
+                    "played": 11,
+                    "wins": 3,
+                    "ties": 0,
+                    "losses": 8,
+                    "lsd": null
+                },
+                {
+                    "id": 66452,
+                    "rank": 12,
+                    "played": 11,
+                    "wins": 1,
+                    "ties": 0,
+                    "losses": 10,
+                    "lsd": null
+                }
+            ],
+            "games": [
+                {
+                    "name": "PE (Birt) vs SK (Lawton)",
+                    "state": "complete",
+                    "id": "c65b2403",
+                    "game_positions": [
+                        {
+                            "team_id": 66448,
+                            "score": 4,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66453,
+                            "score": 5,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "AB (Sweeting) vs MB (Jones)",
+                    "state": "complete",
+                    "id": "7cc768ce",
+                    "game_positions": [
+                        {
+                            "team_id": 66451,
+                            "score": 5,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66450,
+                            "score": 10,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                3,
+                                0,
+                                1,
+                                1,
+                                3,
+                                0,
+                                2,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "AB (Sweeting) vs CAN (Homan)",
+                    "state": "complete",
+                    "id": "8aa5f19b",
+                    "game_positions": [
+                        {
+                            "team_id": 66451,
+                            "score": 7,
+                            "result": "won",
+                            "top_rock": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "team_id": 66458,
+                            "score": 6,
+                            "result": "lost",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NO (Horgan) vs ON (Hastings)",
+                    "state": "complete",
+                    "id": "c3a2e932",
+                    "game_positions": [
+                        {
+                            "team_id": 66457,
+                            "score": 9,
+                            "result": "won",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                3,
+                                0,
+                                1,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66449,
+                            "score": 7,
+                            "result": "lost",
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ON (Hastings) vs AB (Sweeting)",
+                    "state": "complete",
+                    "id": "760c9427",
+                    "game_positions": [
+                        {
+                            "team_id": 66449,
+                            "score": 5,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66451,
+                            "score": 8,
+                            "result": "won",
+                            "end_scores": [
+                                1,
+                                3,
+                                0,
+                                0,
+                                1,
+                                1,
+                                2,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NB (Robichaud) vs BC (Knezevic)",
+                    "state": "complete",
+                    "id": "d09d5eba",
+                    "game_positions": [
+                        {
+                            "team_id": 66447,
+                            "score": 8,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66452,
+                            "score": 7,
+                            "result": "lost",
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NS (Arsenault) vs MB (Jones)",
+                    "state": "complete",
+                    "id": "d9afa45e",
+                    "game_positions": [
+                        {
+                            "team_id": 66454,
+                            "score": 9,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                2,
+                                0,
+                                2,
+                                0,
+                                0,
+                                3,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66450,
+                            "score": 6,
+                            "result": "lost",
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NL (Strong) vs NO (Horgan)",
+                    "state": "complete",
+                    "id": "19175aa6",
+                    "game_positions": [
+                        {
+                            "team_id": 66455,
+                            "score": 6,
+                            "result": "won",
+                            "top_rock": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66457,
+                            "score": 4,
+                            "result": "lost",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SK (Lawton) vs ON (Hastings)",
+                    "state": "complete",
+                    "id": "204a0fac",
+                    "game_positions": [
+                        {
+                            "team_id": 66453,
+                            "score": 4,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66449,
+                            "score": 3,
+                            "result": "lost",
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BC (Knezevic) vs CAN (Homan)",
+                    "state": "complete",
+                    "id": "6199d942",
+                    "game_positions": [
+                        {
+                            "team_id": 66452,
+                            "score": 3,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66458,
+                            "score": 8,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                1,
+                                0,
+                                0,
+                                4,
+                                1,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NS (Arsenault) vs NO (Horgan)",
+                    "state": "complete",
+                    "id": "5c84dcf7",
+                    "game_positions": [
+                        {
+                            "team_id": 66454,
+                            "score": 4,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66457,
+                            "score": 8,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NO (Horgan) vs PE (Birt)",
+                    "state": "complete",
+                    "id": "d400fb53",
+                    "game_positions": [
+                        {
+                            "team_id": 66457,
+                            "score": 5,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                1,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66448,
+                            "score": 7,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                2,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MB (Jones) vs SK (Lawton)",
+                    "state": "complete",
+                    "id": "df66416b",
+                    "game_positions": [
+                        {
+                            "team_id": 66450,
+                            "score": 7,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66453,
+                            "score": 4,
+                            "result": "conceded",
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ON (Hastings) vs NS (Arsenault)",
+                    "state": "complete",
+                    "id": "8c247c40",
+                    "game_positions": [
+                        {
+                            "team_id": 66449,
+                            "score": 8,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                0,
+                                3,
+                                1,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66454,
+                            "score": 7,
+                            "result": "lost",
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                1,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SK (Lawton) vs CAN (Homan)",
+                    "state": "complete",
+                    "id": "85890423",
+                    "game_positions": [
+                        {
+                            "team_id": 66453,
+                            "score": 3,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66458,
+                            "score": 6,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CAN (Homan) vs QC (Mann)",
+                    "state": "complete",
+                    "id": "a63a556f",
+                    "game_positions": [
+                        {
+                            "team_id": 66458,
+                            "score": 6,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                2,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66456,
+                            "score": 4,
+                            "result": "conceded",
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                2,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NL (Strong) vs PE (Birt)",
+                    "state": "complete",
+                    "id": "c3e92046",
+                    "game_positions": [
+                        {
+                            "team_id": 66455,
+                            "score": 7,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                3,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66448,
+                            "score": 4,
+                            "result": "conceded",
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "AB (Sweeting) vs NB (Robichaud)",
+                    "state": "complete",
+                    "id": "d57f48cb",
+                    "game_positions": [
+                        {
+                            "team_id": 66451,
+                            "score": 10,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                3,
+                                0,
+                                2,
+                                1,
+                                3,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66447,
+                            "score": 4,
+                            "result": "conceded",
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CAN (Homan) vs ON (Hastings)",
+                    "state": "complete",
+                    "id": "514bcb19",
+                    "game_positions": [
+                        {
+                            "team_id": 66458,
+                            "score": 10,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                3,
+                                0,
+                                2,
+                                0,
+                                2,
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "team_id": 66449,
+                            "score": 7,
+                            "result": "lost",
+                            "end_scores": [
+                                1,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MB (Jones) vs BC (Knezevic)",
+                    "state": "complete",
+                    "id": "1b65dd1c",
+                    "game_positions": [
+                        {
+                            "team_id": 66450,
+                            "score": 11,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                1,
+                                3,
+                                3,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66452,
+                            "score": 2,
+                            "result": "conceded",
+                            "end_scores": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QC (Mann) vs NO (Horgan)",
+                    "state": "complete",
+                    "id": "a91a5a05",
+                    "game_positions": [
+                        {
+                            "team_id": 66456,
+                            "score": 6,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                3,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66457,
+                            "score": 10,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                1,
+                                0,
+                                2,
+                                1,
+                                0,
+                                3,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NB (Robichaud) vs NL (Strong)",
+                    "state": "complete",
+                    "id": "887a85e0",
+                    "game_positions": [
+                        {
+                            "team_id": 66447,
+                            "score": 4,
+                            "result": "lost",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                1,
+                                1,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66455,
+                            "score": 5,
+                            "result": "won",
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QC (Mann) vs BC (Knezevic)",
+                    "state": "complete",
+                    "id": "526bbfda",
+                    "game_positions": [
+                        {
+                            "team_id": 66456,
+                            "score": 8,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                1,
+                                0,
+                                1,
+                                2,
+                                1,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66452,
+                            "score": 1,
+                            "result": "conceded",
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "AB (Sweeting) vs NS (Arsenault)",
+                    "state": "complete",
+                    "id": "8186594b",
+                    "game_positions": [
+                        {
+                            "team_id": 66451,
+                            "score": 6,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66454,
+                            "score": 5,
+                            "result": "lost",
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "AB (Sweeting) vs NO (Horgan)",
+                    "state": "complete",
+                    "id": "3982c31f",
+                    "game_positions": [
+                        {
+                            "team_id": 66451,
+                            "score": 6,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66457,
+                            "score": 4,
+                            "result": "lost",
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                0,
+                                1,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MB (Jones) vs ON (Hastings)",
+                    "state": "complete",
+                    "id": "3b2229b6",
+                    "game_positions": [
+                        {
+                            "team_id": 66450,
+                            "score": 7,
+                            "result": "won",
+                            "top_rock": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                2,
+                                0,
+                                3,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66449,
+                            "score": 5,
+                            "result": "lost",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                1,
+                                1,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NB (Robichaud) vs PE (Birt)",
+                    "state": "complete",
+                    "id": "f271cfc9",
+                    "game_positions": [
+                        {
+                            "team_id": 66447,
+                            "score": 2,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66448,
+                            "score": 8,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                2,
+                                3,
+                                0,
+                                1,
+                                2,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NS (Arsenault) vs NL (Strong)",
+                    "state": "complete",
+                    "id": "005b40cf",
+                    "game_positions": [
+                        {
+                            "team_id": 66454,
+                            "score": 12,
+                            "result": "won",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                4,
+                                0,
+                                0,
+                                0,
+                                3,
+                                0,
+                                5,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66455,
+                            "score": 7,
+                            "result": "conceded",
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                1,
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BC (Knezevic) vs SK (Lawton)",
+                    "state": "complete",
+                    "id": "b68d88e1",
+                    "game_positions": [
+                        {
+                            "team_id": 66452,
+                            "score": 2,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66453,
+                            "score": 8,
+                            "result": "won",
+                            "end_scores": [
+                                1,
+                                2,
+                                1,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NO (Horgan) vs CAN (Homan)",
+                    "state": "complete",
+                    "id": "ce29e707",
+                    "game_positions": [
+                        {
+                            "team_id": 66457,
+                            "score": 4,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                1,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66458,
+                            "score": 6,
+                            "result": "won",
+                            "end_scores": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                2,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ON (Hastings) vs NB (Robichaud)",
+                    "state": "complete",
+                    "id": "ccfe563a",
+                    "game_positions": [
+                        {
+                            "team_id": 66449,
+                            "score": 5,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                2,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66447,
+                            "score": 9,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                2,
+                                2,
+                                0,
+                                0,
+                                3
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NS (Arsenault) vs BC (Knezevic)",
+                    "state": "complete",
+                    "id": "66823cc9",
+                    "game_positions": [
+                        {
+                            "team_id": 66454,
+                            "score": 5,
+                            "result": "won",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66452,
+                            "score": 4,
+                            "result": "lost",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                0,
+                                1,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NL (Strong) vs QC (Mann)",
+                    "state": "complete",
+                    "id": "0ea7e090",
+                    "game_positions": [
+                        {
+                            "team_id": 66455,
+                            "score": 5,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66456,
+                            "score": 7,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "AB (Sweeting) vs SK (Lawton)",
+                    "state": "complete",
+                    "id": "1b627164",
+                    "game_positions": [
+                        {
+                            "team_id": 66451,
+                            "score": 1,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66453,
+                            "score": 9,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                1,
+                                0,
+                                2,
+                                1,
+                                2,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CAN (Homan) vs NB (Robichaud)",
+                    "state": "complete",
+                    "id": "3584ae1f",
+                    "game_positions": [
+                        {
+                            "team_id": 66458,
+                            "score": 5,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                1,
+                                0,
+                                2,
+                                1,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66447,
+                            "score": 6,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NB (Robichaud) vs SK (Lawton)",
+                    "state": "complete",
+                    "id": "cc8075a9",
+                    "game_positions": [
+                        {
+                            "team_id": 66447,
+                            "score": 4,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66453,
+                            "score": 9,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                1,
+                                0,
+                                3,
+                                0,
+                                2,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NO (Horgan) vs MB (Jones)",
+                    "state": "complete",
+                    "id": "fa3afe21",
+                    "game_positions": [
+                        {
+                            "team_id": 66457,
+                            "score": 3,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66450,
+                            "score": 6,
+                            "result": "won",
+                            "end_scores": [
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                3,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PE (Birt) vs ON (Hastings)",
+                    "state": "complete",
+                    "id": "04292645",
+                    "game_positions": [
+                        {
+                            "team_id": 66448,
+                            "score": 6,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                1,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66449,
+                            "score": 8,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                2,
+                                2,
+                                0,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PE (Birt) vs MB (Jones)",
+                    "state": "complete",
+                    "id": "acf42ce2",
+                    "game_positions": [
+                        {
+                            "team_id": 66448,
+                            "score": 3,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66450,
+                            "score": 10,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                3,
+                                0,
+                                1,
+                                3,
+                                2,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NS (Arsenault) vs QC (Mann)",
+                    "state": "complete",
+                    "id": "3e02a162",
+                    "game_positions": [
+                        {
+                            "team_id": 66454,
+                            "score": 7,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                0,
+                                1,
+                                1,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66456,
+                            "score": 8,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                3,
+                                3,
+                                0,
+                                0,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BC (Knezevic) vs NL (Strong)",
+                    "state": "complete",
+                    "id": "a4cdf47e",
+                    "game_positions": [
+                        {
+                            "team_id": 66452,
+                            "score": 7,
+                            "result": "lost",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                2,
+                                0,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66455,
+                            "score": 10,
+                            "result": "won",
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                1,
+                                2,
+                                0,
+                                2,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MB (Jones) vs NB (Robichaud)",
+                    "state": "complete",
+                    "id": "73d5b259",
+                    "game_positions": [
+                        {
+                            "team_id": 66450,
+                            "score": 9,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                3,
+                                0,
+                                1,
+                                0,
+                                3,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66447,
+                            "score": 7,
+                            "result": "lost",
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CAN (Homan) vs PE (Birt)",
+                    "state": "complete",
+                    "id": "fc49a438",
+                    "game_positions": [
+                        {
+                            "team_id": 66458,
+                            "score": 9,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                3,
+                                0,
+                                1,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66448,
+                            "score": 5,
+                            "result": "conceded",
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                3,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SK (Lawton) vs NO (Horgan)",
+                    "state": "complete",
+                    "id": "415a6b2e",
+                    "game_positions": [
+                        {
+                            "team_id": 66453,
+                            "score": 5,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                1,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66457,
+                            "score": 6,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SK (Lawton) vs NL (Strong)",
+                    "state": "complete",
+                    "id": "ce1fc56d",
+                    "game_positions": [
+                        {
+                            "team_id": 66453,
+                            "score": 4,
+                            "result": "won",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66455,
+                            "score": 2,
+                            "result": "conceded",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CAN (Homan) vs NS (Arsenault)",
+                    "state": "complete",
+                    "id": "176e45ad",
+                    "game_positions": [
+                        {
+                            "team_id": 66458,
+                            "score": 6,
+                            "result": "lost",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66454,
+                            "score": 7,
+                            "result": "won",
+                            "end_scores": [
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                4,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QC (Mann) vs AB (Sweeting)",
+                    "state": "complete",
+                    "id": "12b21e32",
+                    "game_positions": [
+                        {
+                            "team_id": 66456,
+                            "score": 6,
+                            "result": "lost",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66451,
+                            "score": 8,
+                            "result": "won",
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                1,
+                                2,
+                                0,
+                                2,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QC (Mann) vs PE (Birt)",
+                    "state": "complete",
+                    "id": "baeca72e",
+                    "game_positions": [
+                        {
+                            "team_id": 66456,
+                            "score": 6,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                1,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66448,
+                            "score": 10,
+                            "result": "won",
+                            "end_scores": [
+                                0,
+                                4,
+                                1,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BC (Knezevic) vs NO (Horgan)",
+                    "state": "complete",
+                    "id": "12f02f22",
+                    "game_positions": [
+                        {
+                            "team_id": 66452,
+                            "score": 5,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66457,
+                            "score": 7,
+                            "result": "won",
+                            "end_scores": [
+                                1,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                1,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ON (Hastings) vs NL (Strong)",
+                    "state": "complete",
+                    "id": "6b9378c3",
+                    "game_positions": [
+                        {
+                            "team_id": 66449,
+                            "score": 7,
+                            "result": "won",
+                            "top_rock": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                1,
+                                1,
+                                1,
+                                1,
+                                0,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66455,
+                            "score": 4,
+                            "result": "conceded",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BC (Knezevic) vs AB (Sweeting)",
+                    "state": "complete",
+                    "id": "6bea2abb",
+                    "game_positions": [
+                        {
+                            "team_id": 66452,
+                            "score": 5,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                2,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66451,
+                            "score": 10,
+                            "result": "won",
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                3,
+                                0,
+                                3,
+                                0,
+                                0,
+                                3,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QC (Mann) vs NB (Robichaud)",
+                    "state": "complete",
+                    "id": "e78ee8d4",
+                    "game_positions": [
+                        {
+                            "team_id": 66456,
+                            "score": 8,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                3,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                3,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66447,
+                            "score": 9,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                1,
+                                0,
+                                1,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SK (Lawton) vs NS (Arsenault)",
+                    "state": "complete",
+                    "id": "27eb500c",
+                    "game_positions": [
+                        {
+                            "team_id": 66453,
+                            "score": 6,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "team_id": 66454,
+                            "score": 5,
+                            "result": "lost",
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NL (Strong) vs CAN (Homan)",
+                    "state": "complete",
+                    "id": "530d39b2",
+                    "game_positions": [
+                        {
+                            "team_id": 66455,
+                            "score": 5,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                3,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66458,
+                            "score": 11,
+                            "result": "won",
+                            "end_scores": [
+                                2,
+                                0,
+                                3,
+                                0,
+                                0,
+                                0,
+                                6,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NS (Arsenault) vs PE (Birt)",
+                    "state": "complete",
+                    "id": "ffe3cec9",
+                    "game_positions": [
+                        {
+                            "team_id": 66454,
+                            "score": 5,
+                            "result": "lost",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66448,
+                            "score": 6,
+                            "result": "won",
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                1,
+                                1,
+                                0,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QC (Mann) vs MB (Jones)",
+                    "state": "complete",
+                    "id": "2bd6f0d8",
+                    "game_positions": [
+                        {
+                            "team_id": 66456,
+                            "score": 3,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66450,
+                            "score": 9,
+                            "result": "won",
+                            "end_scores": [
+                                1,
+                                0,
+                                1,
+                                2,
+                                4,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ON (Hastings) vs BC (Knezevic)",
+                    "state": "complete",
+                    "id": "03e0495e",
+                    "game_positions": [
+                        {
+                            "team_id": 66449,
+                            "score": 9,
+                            "result": "won",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                2,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66452,
+                            "score": 4,
+                            "result": "conceded",
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CAN (Homan) vs MB (Jones)",
+                    "state": "complete",
+                    "id": "b494a0be",
+                    "game_positions": [
+                        {
+                            "team_id": 66458,
+                            "score": 7,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66450,
+                            "score": 8,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                3,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PE (Birt) vs AB (Sweeting)",
+                    "state": "complete",
+                    "id": "0f9bb04a",
+                    "game_positions": [
+                        {
+                            "team_id": 66448,
+                            "score": 5,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                1,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66451,
+                            "score": 6,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                3,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NO (Horgan) vs NB (Robichaud)",
+                    "state": "complete",
+                    "id": "204ad868",
+                    "game_positions": [
+                        {
+                            "team_id": 66457,
+                            "score": 8,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                3,
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66447,
+                            "score": 4,
+                            "result": "conceded",
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NB (Robichaud) vs NS (Arsenault)",
+                    "state": "complete",
+                    "id": "26782bec",
+                    "game_positions": [
+                        {
+                            "team_id": 66447,
+                            "score": 4,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66454,
+                            "score": 5,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NL (Strong) vs AB (Sweeting)",
+                    "state": "complete",
+                    "id": "fe938ff9",
+                    "game_positions": [
+                        {
+                            "team_id": 66455,
+                            "score": 2,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66451,
+                            "score": 7,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SK (Lawton) vs QC (Mann)",
+                    "state": "complete",
+                    "id": "8a60f49c",
+                    "game_positions": [
+                        {
+                            "team_id": 66453,
+                            "score": 8,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                1,
+                                1,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66456,
+                            "score": 3,
+                            "result": "conceded",
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ON (Hastings) vs QC (Mann)",
+                    "state": "complete",
+                    "id": "fc8239ee",
+                    "game_positions": [
+                        {
+                            "team_id": 66449,
+                            "score": 6,
+                            "result": "won",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                1,
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66456,
+                            "score": 5,
+                            "result": "lost",
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                0,
+                                0,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PE (Birt) vs BC (Knezevic)",
+                    "state": "complete",
+                    "id": "46f05663",
+                    "game_positions": [
+                        {
+                            "team_id": 66448,
+                            "score": 4,
+                            "result": "conceded",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66452,
+                            "score": 7,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                2,
+                                2,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MB (Jones) vs NL (Strong)",
+                    "state": "complete",
+                    "id": "1bdc327b",
+                    "game_positions": [
+                        {
+                            "team_id": 66450,
+                            "score": 9,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                5,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66455,
+                            "score": 3,
+                            "result": "conceded",
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6045,
+            "type": "Bracket",
+            "name": "Pre-qualifier Final",
+            "groups": [
+                {
+                    "id": 1,
+                    "name": "A Event",
+                    "legacy_id": "66944a4b-ba14-45be-a379-172dd281808e"
+                }
+            ],
+            "games": [
+                {
+                    "name": "PQ-F",
+                    "state": "complete",
+                    "id": "9cdb4b6f",
+                    "round": 0,
+                    "coords": {
+                        "col": 0,
+                        "row": 0,
+                        "group_id": 1
+                    },
+                    "game_positions": [
+                        {
+                            "team_id": 66457,
+                            "score": 7,
+                            "result": "won",
+                            "top_rock": true,
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                0,
+                                2,
+                                3,
+                                0,
+                                1,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66459,
+                            "score": 6,
+                            "result": "lost",
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                1,
+                                0,
+                                0,
+                                2,
+                                0,
+                                1,
+                                1
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6047,
+            "type": "Bracket",
+            "name": "Playoffs",
+            "groups": [
+                {
+                    "id": 1,
+                    "name": "A Event",
+                    "legacy_id": "8add1e76-b640-4a66-8867-b13fea2d8459"
+                }
+            ],
+            "games": [
+                {
+                    "name": "PP 1v2",
+                    "state": "complete",
+                    "id": "000ae7c5",
+                    "round": 0,
+                    "coords": {
+                        "col": 0,
+                        "row": 0,
+                        "group_id": 1
+                    },
+                    "game_positions": [
+                        {
+                            "team_id": 66451,
+                            "score": 6,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                1,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66450,
+                            "score": 8,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                4,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PP 3v4",
+                    "state": "complete",
+                    "id": "1c872e7f",
+                    "round": 0,
+                    "coords": {
+                        "col": 0,
+                        "row": 5,
+                        "group_id": 1
+                    },
+                    "game_positions": [
+                        {
+                            "team_id": 66458,
+                            "score": 7,
+                            "result": "lost",
+                            "top_rock": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                0,
+                                2,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66453,
+                            "score": 8,
+                            "result": "won",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                2,
+                                1,
+                                0,
+                                2,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SF",
+                    "state": "complete",
+                    "id": "0790ca52",
+                    "round": 1,
+                    "coords": {
+                        "col": 5,
+                        "row": 2,
+                        "group_id": 1
+                    },
+                    "game_positions": [
+                        {
+                            "team_id": 66451,
+                            "score": 7,
+                            "result": "won",
+                            "top_rock": true,
+                            "loser_id": "000ae7c5",
+                            "first_hammer": true,
+                            "end_scores": [
+                                0,
+                                1,
+                                0,
+                                3,
+                                0,
+                                2,
+                                0,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66453,
+                            "score": 6,
+                            "result": "lost",
+                            "winner_id": "1c872e7f",
+                            "end_scores": [
+                                0,
+                                0,
+                                1,
+                                0,
+                                2,
+                                0,
+                                2,
+                                0,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BRONZE",
+                    "state": "complete",
+                    "id": "ea356439",
+                    "round": 2,
+                    "coords": {
+                        "col": 10,
+                        "row": 5,
+                        "group_id": 1
+                    },
+                    "game_positions": [
+                        {
+                            "team_id": 66458,
+                            "score": 7,
+                            "result": "won",
+                            "top_rock": true,
+                            "loser_id": "1c872e7f",
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                2,
+                                0,
+                                0,
+                                2,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "team_id": 66453,
+                            "score": 5,
+                            "result": "lost",
+                            "loser_id": "0790ca52",
+                            "first_hammer": true,
+                            "end_scores": [
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                0,
+                                1,
+                                1,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "GOLD",
+                    "state": "complete",
+                    "id": "5375ef05",
+                    "round": 2,
+                    "coords": {
+                        "col": 10,
+                        "row": 0,
+                        "group_id": 1
+                    },
+                    "game_positions": [
+                        {
+                            "team_id": 66451,
+                            "score": 5,
+                            "result": "lost",
+                            "top_rock": true,
+                            "winner_id": "0790ca52",
+                            "end_scores": [
+                                0,
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "team_id": 66450,
+                            "score": 6,
+                            "result": "won",
+                            "winner_id": "000ae7c5",
+                            "first_hammer": true,
+                            "end_scores": [
+                                2,
+                                0,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1,
+                                0,
+                                1
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "sheet_names": [
+        "Sheet A",
+        "Sheet B",
+        "Sheet C",
+        "Sheet D"
+    ],
+    "end_scores_enabled": true,
+    "number_of_ends": 10,
+    "top_rock": "red",
+    "bot_rock": "yellow",
+    "shot_by_shot_enabled": false,
+    "last_stone_draw_enabled": false,
+    "draws": [
+        {
+            "id": 123926,
+            "label": "PQ1",
+            "starts_at": "Feb 12 at  7:00 pm",
+            "draw_sheets": [
+                "abfc3ea8"
+            ]
+        },
+        {
+            "id": 123927,
+            "label": "PQ2",
+            "starts_at": "Feb 13 at  8:00 am",
+            "draw_sheets": [
+                "ebb359e3"
+            ]
+        },
+        {
+            "id": 123928,
+            "label": "PQ3",
+            "starts_at": "Feb 13 at  3:30 pm",
+            "draw_sheets": [
+                "ab550847"
+            ]
+        },
+        {
+            "id": 123929,
+            "label": "1",
+            "starts_at": "Feb 14 at  2:00 pm",
+            "draw_sheets": [
+                "b68d88e1",
+                "9cdb4b6f",
+                "a63a556f",
+                "005b40cf"
+            ]
+        },
+        {
+            "id": 123930,
+            "label": "2",
+            "starts_at": "Feb 14 at  7:00 pm",
+            "draw_sheets": [
+                "f271cfc9",
+                "3b2229b6",
+                "3982c31f",
+                "85890423"
+            ]
+        },
+        {
+            "id": 123931,
+            "label": "3",
+            "starts_at": "Feb 15 at  9:00 am",
+            "draw_sheets": [
+                "8186594b",
+                "526bbfda",
+                "887a85e0"
+            ]
+        },
+        {
+            "id": 123932,
+            "label": "4",
+            "starts_at": "Feb 15 at  2:00 pm",
+            "draw_sheets": [
+                "a91a5a05",
+                "c3e92046",
+                "8c247c40",
+                "1b65dd1c"
+            ]
+        },
+        {
+            "id": 123933,
+            "label": "5",
+            "starts_at": "Feb 15 at  7:00 pm",
+            "draw_sheets": [
+                "514bcb19",
+                "d57f48cb",
+                "df66416b",
+                "d400fb53"
+            ]
+        },
+        {
+            "id": 123934,
+            "label": "6",
+            "starts_at": "Feb 16 at  9:00 am",
+            "draw_sheets": [
+                "1bdc327b",
+                "5c84dcf7",
+                "46f05663",
+                "fc8239ee"
+            ]
+        },
+        {
+            "id": 123935,
+            "label": "7",
+            "starts_at": "Feb 16 at  2:00 pm",
+            "draw_sheets": [
+                "8a60f49c",
+                "6199d942",
+                "fe938ff9",
+                "26782bec"
+            ]
+        },
+        {
+            "id": 123936,
+            "label": "8",
+            "starts_at": "Feb 16 at  7:00 pm",
+            "draw_sheets": [
+                "204ad868",
+                "0f9bb04a",
+                "204a0fac",
+                "b494a0be"
+            ]
+        },
+        {
+            "id": 123937,
+            "label": "9",
+            "starts_at": "Feb 17 at  2:00 pm",
+            "draw_sheets": [
+                "03e0495e",
+                "2bd6f0d8",
+                "ffe3cec9",
+                "19175aa6"
+            ]
+        },
+        {
+            "id": 123938,
+            "label": "10",
+            "starts_at": "Feb 17 at  7:00 pm",
+            "draw_sheets": [
+                "530d39b2",
+                "27eb500c",
+                "e78ee8d4",
+                "6bea2abb"
+            ]
+        },
+        {
+            "id": 123939,
+            "label": "11",
+            "starts_at": "Feb 18 at  9:00 am",
+            "draw_sheets": [
+                "d9afa45e",
+                "6b9378c3",
+                "12f02f22",
+                "baeca72e"
+            ]
+        },
+        {
+            "id": 123940,
+            "label": "12",
+            "starts_at": "Feb 18 at  2:00 pm",
+            "draw_sheets": [
+                "12b21e32",
+                "d09d5eba",
+                "176e45ad",
+                "ce1fc56d"
+            ]
+        },
+        {
+            "id": 123941,
+            "label": "13",
+            "starts_at": "Feb 18 at  7:00 pm",
+            "draw_sheets": [
+                "415a6b2e",
+                "fc49a438",
+                "760c9427",
+                "73d5b259"
+            ]
+        },
+        {
+            "id": 123942,
+            "label": "14",
+            "starts_at": "Feb 19 at  9:00 am",
+            "draw_sheets": [
+                "a4cdf47e",
+                "3e02a162",
+                "acf42ce2",
+                "c3a2e932"
+            ]
+        },
+        {
+            "id": 123943,
+            "label": "15",
+            "starts_at": "Feb 19 at  2:00 pm",
+            "draw_sheets": [
+                "04292645",
+                "fa3afe21",
+                "cc8075a9",
+                "8aa5f19b"
+            ]
+        },
+        {
+            "id": 123944,
+            "label": "16",
+            "starts_at": "Feb 19 at  7:00 pm",
+            "draw_sheets": [
+                "3584ae1f",
+                "1b627164",
+                "0ea7e090",
+                "66823cc9"
+            ]
+        },
+        {
+            "id": 123945,
+            "label": "17",
+            "starts_at": "Feb 20 at  9:00 am",
+            "draw_sheets": [
+                "7cc768ce",
+                "ccfe563a",
+                "ce29e707",
+                "c65b2403"
+            ]
+        },
+        {
+            "id": 123946,
+            "label": "18 - PP",
+            "starts_at": "Feb 20 at  7:00 pm",
+            "draw_sheets": [
+                "000ae7c5"
+            ]
+        },
+        {
+            "id": 123947,
+            "label": "19 - PP",
+            "starts_at": "Feb 21 at 10:00 am",
+            "draw_sheets": [
+                "1c872e7f"
+            ]
+        },
+        {
+            "id": 123948,
+            "label": "20 - SF",
+            "starts_at": "Feb 21 at  3:00 pm",
+            "draw_sheets": [
+                "0790ca52"
+            ]
+        },
+        {
+            "id": 123949,
+            "label": "21 - BRZ",
+            "starts_at": "Feb 22 at  2:00 pm",
+            "draw_sheets": [
+                "ea356439"
+            ]
+        },
+        {
+            "id": 123950,
+            "label": "22 - FNL",
+            "starts_at": "Feb 22 at  7:00 pm",
+            "draw_sheets": [
+                "5375ef05"
+            ]
+        }
+    ]
+}

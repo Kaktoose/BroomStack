@@ -11,6 +11,14 @@
 
 
 }
+#helpContent ul{
+    line-height: 2.6;
+    font-size:1.1em;
+}
+
+#siteContent{
+    min-height: 80vh;
+}
 
 table {
     margin: 10px;

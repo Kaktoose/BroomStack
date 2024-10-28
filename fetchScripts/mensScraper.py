@@ -5,7 +5,7 @@ import csv
 
 
 teamLinkList = []
-filePath = "Stats/Women/Season/2013-2014.csv"
+filePath = "Stats/Men/Season/2024-2025.csv"
 
 fetchList = {
 
@@ -22,7 +22,7 @@ fetchList = {
 }   
 
 def fetchMensTeams():
-    url = "https://www.curlingzone.com/teams.php?et=82&ey=2014"
+    url = "https://www.curlingzone.com/teams.php?et=81&ey=2025"
     response = requests.get(url)
 
     if response.status_code == 200:

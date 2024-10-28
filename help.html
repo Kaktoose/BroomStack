@@ -14,8 +14,8 @@
 
 
     <article id="helpContent">
-        <h2 style="padding: 10px;">Stats Explained</h2>
-    <ul style="padding-bottom: 5px;">
+        <ul style="padding-bottom: 5px; list-style-type: none; ">
+        <li style="list-style-type: none;"><h2 style="padding-top:20px">SeasonRanks</h2></li>
         <li>PCT: GamesWon/TotalGames. Percentage of games won divided by 1000</li>
         <li>HammerEfficiency: Percentage of ends converted with hammer (2 or more points)</li>
         <li>ExtraEndHammer: Percentage of extra-end games won with hammer</li>
@@ -40,6 +40,11 @@
         $("#nav-placeholder").load("../nav.html");
       });
 </script>
-
+<script>
+    $(function(){
+        $("#footer-placeholder").load("../footer.html");
+      });
+</script>
+<div id="footer-placeholder"></div>
 </body>
 </html>
